@@ -17,6 +17,6 @@ def get_split(filename):
         np.save(tag+"Y.npy", envY)
 
 
-get_split("../emotion_CI/online_shopping_10_cats.csv")
-npd = np.load('书籍X.npy', allow_pickle=True)
-print('over')
+get_split("../data/online_shopping_10_cats.csv")
+
+
