@@ -3,6 +3,7 @@ import torch
 import torch.nn as nn
 import numpy as np
 import pandas as pd
+from SRDO import *
 from torch.utils.data import Dataset, DataLoader
 
 # 构建词库
@@ -46,16 +47,48 @@ class TextDataset(Dataset):
     
     def __len__(self):
         return len(self.all_text)
+   
     
+def get_decor(cor_data, max_len, emb_matrix, word_2_index):
+    """
+
+    Args:
+        cor_data : 待“去相关”处理的原始数据，这里即是训练集文本
+        max_len : 每一个样本文本经过padding或切片后的长度
+        emb_matrix : 词的embedding矩阵
+        word_2_index : 词的index字典
+
+    Returns:
+        weight : 权重 
+    """
+    
+    X = []
+    for text in cor_data:
+            text = text[:max_len]
+            text_index = [word_2_index.get(i, 1) for i in text]
+            text_index = text_index + [0] * (max_len - len(text))
+            text_index = torch.tensor(text_index)
+
+            sample_emb = emb_matrix(text_index).detach().numpy()
+            
+            X.append(sample_emb)
+            
+    X = np.array(X)
+    
+    sample_weights = decorrelation(X)
+    
+    return sample_weights
+
+
 
 
 if __name__ == '__main__':
     train_data = np.load("../data/计算机X.npy", allow_pickle=True)
     train_label = np.load("../data/计算机Y.npy", allow_pickle=True)
     
-    max_len = 250
-    hidden_num = 100
-    emb_len = 100
+    max_len = 250        # text length
+    hidden_num = 100     # para for TextCNN
+    emb_len = 100        # word embedding length
     class_num = len(set(train_label))
     epoch = 100
     batch_size = 200
@@ -65,6 +98,8 @@ if __name__ == '__main__':
     word_2_index, emb_index = build_curpus(emb_len)
     train_dataset = TextDataset(train_data, train_label, word_2_index, max_len)
     train_dataloader = DataLoader(train_dataset, batch_size, shuffle=False)
+
+    weights = get_decor(train_data, max_len, emb_index, word_2_index)
     
     model = TextCNN(emb_index, max_len, class_num, hidden_num).to(device)
     opt = torch.optim.Adam(model.parameters(), lr=lr)
