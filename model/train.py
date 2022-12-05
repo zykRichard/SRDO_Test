@@ -34,6 +34,7 @@ class TextDataset(Dataset):
     def __getitem__(self, index):
         if type(self.all_text[index]) == float:
             text_data = "@"
+            self.all_text[index] = "@"
         else:
             text_data = self.all_text[index][:self.max_len]
         text_label = int(self.all_label[index])
@@ -49,34 +50,10 @@ class TextDataset(Dataset):
         return len(self.all_text)
    
     
-def get_decor(cor_data, max_len, emb_matrix, word_2_index):
-    """
-
-    Args:
-        cor_data : 待“去相关”处理的原始数据，这里即是训练集文本
-        max_len : 每一个样本文本经过padding或切片后的长度
-        emb_matrix : 词的embedding矩阵
-        word_2_index : 词的index字典
-
-    Returns:
-        weight : 权重 
-    """
+def get_decor(feature_matrix):
     
-    X = []
-    for text in cor_data:
-            text = text[:max_len]
-            text_index = [word_2_index.get(i, 1) for i in text]
-            text_index = text_index + [0] * (max_len - len(text))
-            text_index = torch.tensor(text_index)
-
-            sample_emb = emb_matrix(text_index).detach().numpy()
-            
-            X.append(sample_emb)
-            
-    X = np.array(X)
-    
-    sample_weights = decorrelation(X)
-    
+    np_feature_matrix = feature_matrix.cpu().detach().numpy() 
+    sample_weights = decorrelation(np_feature_matrix)
     return sample_weights
 
 
@@ -86,20 +63,26 @@ if __name__ == '__main__':
     train_data = np.load("../data/计算机X.npy", allow_pickle=True)
     train_label = np.load("../data/计算机Y.npy", allow_pickle=True)
     
-    max_len = 250        # text length
-    hidden_num = 100     # para for TextCNN
-    emb_len = 100        # word embedding length
+    get_split("../data/online_shopping_10_cats.csv") 
+    data_enhence(train_data, train_label)
+     
+    max_len = 100        # text length
+    hidden_num = 40     # para for TextCNN
+    emb_len = 128        # word embedding length
     class_num = len(set(train_label))
     epoch = 100
-    batch_size = 200
+    batch_size = 1000
     lr = 0.001
     device = "cuda:0" if torch.cuda.is_available() else "cpu"
-    
+  
+    logger = get_logger('../log/exp_noweights_with_cor.log')
+    #loss_fun = nn.CrossEntropyLoss(reduction='none')
+    loss_fun = nn.CrossEntropyLoss()
     word_2_index, emb_index = build_curpus(emb_len)
     train_dataset = TextDataset(train_data, train_label, word_2_index, max_len)
-    train_dataloader = DataLoader(train_dataset, batch_size, shuffle=False)
+    train_dataloader = DataLoader(train_dataset, batch_size, shuffle=True)
 
-    weights = get_decor(train_data, max_len, emb_index, word_2_index)
+    #weights = get_decor(train_data, max_len, emb_index, word_2_index)
     
     model = TextCNN(emb_index, max_len, class_num, hidden_num).to(device)
     opt = torch.optim.Adam(model.parameters(), lr=lr)
@@ -110,13 +93,28 @@ if __name__ == '__main__':
         for batch_idx, batch_label in train_dataloader:
             batch_idx = batch_idx.to(device)
             batch_label = batch_label.to(device)
+           
+            feature_matrix, pre = model.forward(batch_idx, train=True)
+            #weights = get_decor(feature_matrix)
+            np_feature_matrix = feature_matrix.cpu().detach().numpy()
+            weights = np.ones(np_feature_matrix.shape[0])
+            w_stat = weighted_stat(np_feature_matrix, weights)
+            logger.info('mean of correlation:{:.3f}'.format(w_stat['mean_corr']))
+            logger.info('minimal eigenvalue:{:.3f}'.format(w_stat['min_eig']))
+            logger.info('condition number:{:.3f}'.format(w_stat['CN'])) 
+            #weights = torch.DoubleTensor(weights).to(device) 
             
-            loss = model.forward(batch_idx, batch_label)
+            #loss_fun = nn.CrossEntropyLoss(reduce=False)
+            loss = loss_fun(pre, batch_label)
+            #loss = loss.double()
+            
+            #loss = loss * weights
+            #loss = loss.mean()
             loss.backward()
             opt.step()
             opt.zero_grad()
-            
-            print(f"loss : {loss:.3f} on epoch {e}") 
+           
+            logger.info('Epoch:{:d} \t loss={:.5f}\t'.format(e, loss)) 
    
    
     print("/****************************START TESTING*************************/") 
@@ -127,9 +125,11 @@ if __name__ == '__main__':
     
     for e in range(10):
         print(f"starting test on env{e} : {env[e]}")
+        logger.info('starting test on env{:s}\t'.format(env[e]))
         test_data = np.load("../data/" + env[e] + "X.npy", allow_pickle=True)
         test_label = np.load("../data/" + env[e] + "Y.npy", allow_pickle=True)
-        
+        if e != 1:
+            data_enhence(test_data, test_label, True) 
         test_dataset = TextDataset(test_data, test_label, word_2_index, max_len)
         test_dataloader = DataLoader(test_dataset, batch_size, shuffle=False)
         
@@ -138,10 +138,10 @@ if __name__ == '__main__':
             batch_idx = batch_idx.to(device)
             batch_label = batch_label.to(device)
             
-            pre = model.forward(batch_idx)
+            feature_matrix, pre = model.forward(batch_idx, train=False)
             right_num += int(torch.sum(pre == batch_label))
             
         print(f"acc = {right_num/len(test_dataset)*100:.2f}%")
-        
+        logger.info("acc on env{:s} = {:.2f}%\t".format(env[e], right_num/len(test_dataset)*100))
         
     print("Over")

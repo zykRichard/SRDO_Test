@@ -1,0 +1,1620 @@
+[2022-12-01 21:43:21,631][train.py][line:102][INFO] mean of correlation:0.103
+[2022-12-01 21:43:21,632][train.py][line:103][INFO] minimal eigenvalue:0.334
+[2022-12-01 21:43:21,633][train.py][line:104][INFO] condition number:41.297
+[2022-12-01 21:43:21,948][train.py][line:117][INFO] Epoch:0 	 loss=0.84336	
+[2022-12-01 21:43:22,344][train.py][line:102][INFO] mean of correlation:0.097
+[2022-12-01 21:43:22,345][train.py][line:103][INFO] minimal eigenvalue:0.311
+[2022-12-01 21:43:22,345][train.py][line:104][INFO] condition number:41.447
+[2022-12-01 21:43:22,367][train.py][line:117][INFO] Epoch:0 	 loss=0.74203	
+[2022-12-01 21:43:22,441][train.py][line:102][INFO] mean of correlation:0.095
+[2022-12-01 21:43:22,442][train.py][line:103][INFO] minimal eigenvalue:0.143
+[2022-12-01 21:43:22,443][train.py][line:104][INFO] condition number:89.332
+[2022-12-01 21:43:22,463][train.py][line:117][INFO] Epoch:0 	 loss=0.67044	
+[2022-12-01 21:43:22,646][train.py][line:102][INFO] mean of correlation:0.102
+[2022-12-01 21:43:22,646][train.py][line:103][INFO] minimal eigenvalue:0.137
+[2022-12-01 21:43:22,647][train.py][line:104][INFO] condition number:99.388
+[2022-12-01 21:43:22,846][train.py][line:117][INFO] Epoch:0 	 loss=0.65812	
+[2022-12-01 21:43:22,913][train.py][line:102][INFO] mean of correlation:0.099
+[2022-12-01 21:43:22,914][train.py][line:103][INFO] minimal eigenvalue:0.118
+[2022-12-01 21:43:22,914][train.py][line:104][INFO] condition number:111.144
+[2022-12-01 21:43:22,935][train.py][line:117][INFO] Epoch:1 	 loss=0.68321	
+[2022-12-01 21:43:23,008][train.py][line:102][INFO] mean of correlation:0.111
+[2022-12-01 21:43:23,009][train.py][line:103][INFO] minimal eigenvalue:0.146
+[2022-12-01 21:43:23,010][train.py][line:104][INFO] condition number:101.124
+[2022-12-01 21:43:23,030][train.py][line:117][INFO] Epoch:1 	 loss=0.65029	
+[2022-12-01 21:43:23,106][train.py][line:102][INFO] mean of correlation:0.091
+[2022-12-01 21:43:23,106][train.py][line:103][INFO] minimal eigenvalue:0.158
+[2022-12-01 21:43:23,107][train.py][line:104][INFO] condition number:75.625
+[2022-12-01 21:43:23,127][train.py][line:117][INFO] Epoch:1 	 loss=0.58865	
+[2022-12-01 21:43:23,307][train.py][line:102][INFO] mean of correlation:0.094
+[2022-12-01 21:43:23,308][train.py][line:103][INFO] minimal eigenvalue:0.159
+[2022-12-01 21:43:23,308][train.py][line:104][INFO] condition number:76.394
+[2022-12-01 21:43:23,329][train.py][line:117][INFO] Epoch:1 	 loss=0.56275	
+[2022-12-01 21:43:23,397][train.py][line:102][INFO] mean of correlation:0.101
+[2022-12-01 21:43:23,398][train.py][line:103][INFO] minimal eigenvalue:0.133
+[2022-12-01 21:43:23,398][train.py][line:104][INFO] condition number:96.361
+[2022-12-01 21:43:23,419][train.py][line:117][INFO] Epoch:2 	 loss=0.52750	
+[2022-12-01 21:43:23,491][train.py][line:102][INFO] mean of correlation:0.099
+[2022-12-01 21:43:23,492][train.py][line:103][INFO] minimal eigenvalue:0.101
+[2022-12-01 21:43:23,492][train.py][line:104][INFO] condition number:119.952
+[2022-12-01 21:43:23,512][train.py][line:117][INFO] Epoch:2 	 loss=0.51491	
+[2022-12-01 21:43:23,580][train.py][line:102][INFO] mean of correlation:0.102
+[2022-12-01 21:43:23,581][train.py][line:103][INFO] minimal eigenvalue:0.096
+[2022-12-01 21:43:23,581][train.py][line:104][INFO] condition number:131.122
+[2022-12-01 21:43:23,602][train.py][line:117][INFO] Epoch:2 	 loss=0.51090	
+[2022-12-01 21:43:23,778][train.py][line:102][INFO] mean of correlation:0.102
+[2022-12-01 21:43:23,778][train.py][line:103][INFO] minimal eigenvalue:0.089
+[2022-12-01 21:43:23,779][train.py][line:104][INFO] condition number:139.310
+[2022-12-01 21:43:23,799][train.py][line:117][INFO] Epoch:2 	 loss=0.49264	
+[2022-12-01 21:43:23,875][train.py][line:102][INFO] mean of correlation:0.109
+[2022-12-01 21:43:23,876][train.py][line:103][INFO] minimal eigenvalue:0.072
+[2022-12-01 21:43:23,876][train.py][line:104][INFO] condition number:180.197
+[2022-12-01 21:43:23,897][train.py][line:117][INFO] Epoch:3 	 loss=0.48395	
+[2022-12-01 21:43:23,967][train.py][line:102][INFO] mean of correlation:0.110
+[2022-12-01 21:43:23,968][train.py][line:103][INFO] minimal eigenvalue:0.067
+[2022-12-01 21:43:23,968][train.py][line:104][INFO] condition number:200.025
+[2022-12-01 21:43:23,989][train.py][line:117][INFO] Epoch:3 	 loss=0.46179	
+[2022-12-01 21:43:24,065][train.py][line:102][INFO] mean of correlation:0.109
+[2022-12-01 21:43:24,066][train.py][line:103][INFO] minimal eigenvalue:0.062
+[2022-12-01 21:43:24,066][train.py][line:104][INFO] condition number:222.840
+[2022-12-01 21:43:24,087][train.py][line:117][INFO] Epoch:3 	 loss=0.45715	
+[2022-12-01 21:43:24,277][train.py][line:102][INFO] mean of correlation:0.112
+[2022-12-01 21:43:24,278][train.py][line:103][INFO] minimal eigenvalue:0.049
+[2022-12-01 21:43:24,278][train.py][line:104][INFO] condition number:268.592
+[2022-12-01 21:43:24,298][train.py][line:117][INFO] Epoch:3 	 loss=0.44802	
+[2022-12-01 21:43:24,368][train.py][line:102][INFO] mean of correlation:0.118
+[2022-12-01 21:43:24,368][train.py][line:103][INFO] minimal eigenvalue:0.047
+[2022-12-01 21:43:24,369][train.py][line:104][INFO] condition number:313.689
+[2022-12-01 21:43:24,389][train.py][line:117][INFO] Epoch:4 	 loss=0.41516	
+[2022-12-01 21:43:24,459][train.py][line:102][INFO] mean of correlation:0.123
+[2022-12-01 21:43:24,460][train.py][line:103][INFO] minimal eigenvalue:0.047
+[2022-12-01 21:43:24,460][train.py][line:104][INFO] condition number:323.625
+[2022-12-01 21:43:24,480][train.py][line:117][INFO] Epoch:4 	 loss=0.41679	
+[2022-12-01 21:43:24,552][train.py][line:102][INFO] mean of correlation:0.117
+[2022-12-01 21:43:24,553][train.py][line:103][INFO] minimal eigenvalue:0.043
+[2022-12-01 21:43:24,553][train.py][line:104][INFO] condition number:352.560
+[2022-12-01 21:43:24,573][train.py][line:117][INFO] Epoch:4 	 loss=0.39854	
+[2022-12-01 21:43:24,752][train.py][line:102][INFO] mean of correlation:0.126
+[2022-12-01 21:43:24,753][train.py][line:103][INFO] minimal eigenvalue:0.036
+[2022-12-01 21:43:24,753][train.py][line:104][INFO] condition number:452.667
+[2022-12-01 21:43:24,774][train.py][line:117][INFO] Epoch:4 	 loss=0.40049	
+[2022-12-01 21:43:24,842][train.py][line:102][INFO] mean of correlation:0.128
+[2022-12-01 21:43:24,843][train.py][line:103][INFO] minimal eigenvalue:0.030
+[2022-12-01 21:43:24,844][train.py][line:104][INFO] condition number:548.872
+[2022-12-01 21:43:24,864][train.py][line:117][INFO] Epoch:5 	 loss=0.40271	
+[2022-12-01 21:43:24,937][train.py][line:102][INFO] mean of correlation:0.130
+[2022-12-01 21:43:24,938][train.py][line:103][INFO] minimal eigenvalue:0.041
+[2022-12-01 21:43:24,938][train.py][line:104][INFO] condition number:408.337
+[2022-12-01 21:43:24,959][train.py][line:117][INFO] Epoch:5 	 loss=0.40545	
+[2022-12-01 21:43:25,028][train.py][line:102][INFO] mean of correlation:0.133
+[2022-12-01 21:43:25,029][train.py][line:103][INFO] minimal eigenvalue:0.034
+[2022-12-01 21:43:25,030][train.py][line:104][INFO] condition number:524.304
+[2022-12-01 21:43:25,050][train.py][line:117][INFO] Epoch:5 	 loss=0.38593	
+[2022-12-01 21:43:25,229][train.py][line:102][INFO] mean of correlation:0.131
+[2022-12-01 21:43:25,230][train.py][line:103][INFO] minimal eigenvalue:0.029
+[2022-12-01 21:43:25,230][train.py][line:104][INFO] condition number:596.984
+[2022-12-01 21:43:25,251][train.py][line:117][INFO] Epoch:5 	 loss=0.38963	
+[2022-12-01 21:43:25,326][train.py][line:102][INFO] mean of correlation:0.133
+[2022-12-01 21:43:25,327][train.py][line:103][INFO] minimal eigenvalue:0.031
+[2022-12-01 21:43:25,327][train.py][line:104][INFO] condition number:578.337
+[2022-12-01 21:43:25,348][train.py][line:117][INFO] Epoch:6 	 loss=0.37430	
+[2022-12-01 21:43:25,416][train.py][line:102][INFO] mean of correlation:0.137
+[2022-12-01 21:43:25,417][train.py][line:103][INFO] minimal eigenvalue:0.025
+[2022-12-01 21:43:25,417][train.py][line:104][INFO] condition number:724.205
+[2022-12-01 21:43:25,437][train.py][line:117][INFO] Epoch:6 	 loss=0.34609	
+[2022-12-01 21:43:25,509][train.py][line:102][INFO] mean of correlation:0.140
+[2022-12-01 21:43:25,510][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:43:25,511][train.py][line:104][INFO] condition number:779.353
+[2022-12-01 21:43:25,532][train.py][line:117][INFO] Epoch:6 	 loss=0.34040	
+[2022-12-01 21:43:25,711][train.py][line:102][INFO] mean of correlation:0.134
+[2022-12-01 21:43:25,712][train.py][line:103][INFO] minimal eigenvalue:0.025
+[2022-12-01 21:43:25,713][train.py][line:104][INFO] condition number:746.326
+[2022-12-01 21:43:25,734][train.py][line:117][INFO] Epoch:6 	 loss=0.34779	
+[2022-12-01 21:43:25,806][train.py][line:102][INFO] mean of correlation:0.139
+[2022-12-01 21:43:25,807][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:43:25,808][train.py][line:104][INFO] condition number:816.107
+[2022-12-01 21:43:25,828][train.py][line:117][INFO] Epoch:7 	 loss=0.34056	
+[2022-12-01 21:43:25,902][train.py][line:102][INFO] mean of correlation:0.139
+[2022-12-01 21:43:25,903][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:43:25,904][train.py][line:104][INFO] condition number:808.434
+[2022-12-01 21:43:25,924][train.py][line:117][INFO] Epoch:7 	 loss=0.34694	
+[2022-12-01 21:43:25,994][train.py][line:102][INFO] mean of correlation:0.142
+[2022-12-01 21:43:25,994][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:43:25,995][train.py][line:104][INFO] condition number:851.011
+[2022-12-01 21:43:26,016][train.py][line:117][INFO] Epoch:7 	 loss=0.32796	
+[2022-12-01 21:43:26,196][train.py][line:102][INFO] mean of correlation:0.139
+[2022-12-01 21:43:26,197][train.py][line:103][INFO] minimal eigenvalue:0.018
+[2022-12-01 21:43:26,197][train.py][line:104][INFO] condition number:1036.188
+[2022-12-01 21:43:26,217][train.py][line:117][INFO] Epoch:7 	 loss=0.33453	
+[2022-12-01 21:43:26,291][train.py][line:102][INFO] mean of correlation:0.140
+[2022-12-01 21:43:26,292][train.py][line:103][INFO] minimal eigenvalue:0.020
+[2022-12-01 21:43:26,293][train.py][line:104][INFO] condition number:981.799
+[2022-12-01 21:43:26,313][train.py][line:117][INFO] Epoch:8 	 loss=0.34266	
+[2022-12-01 21:43:26,387][train.py][line:102][INFO] mean of correlation:0.144
+[2022-12-01 21:43:26,388][train.py][line:103][INFO] minimal eigenvalue:0.020
+[2022-12-01 21:43:26,389][train.py][line:104][INFO] condition number:1019.994
+[2022-12-01 21:43:26,409][train.py][line:117][INFO] Epoch:8 	 loss=0.31274	
+[2022-12-01 21:43:26,482][train.py][line:102][INFO] mean of correlation:0.146
+[2022-12-01 21:43:26,483][train.py][line:103][INFO] minimal eigenvalue:0.018
+[2022-12-01 21:43:26,484][train.py][line:104][INFO] condition number:1142.662
+[2022-12-01 21:43:26,504][train.py][line:117][INFO] Epoch:8 	 loss=0.32030	
+[2022-12-01 21:43:26,687][train.py][line:102][INFO] mean of correlation:0.141
+[2022-12-01 21:43:26,687][train.py][line:103][INFO] minimal eigenvalue:0.020
+[2022-12-01 21:43:26,688][train.py][line:104][INFO] condition number:943.401
+[2022-12-01 21:43:26,709][train.py][line:117][INFO] Epoch:8 	 loss=0.32590	
+[2022-12-01 21:43:26,779][train.py][line:102][INFO] mean of correlation:0.146
+[2022-12-01 21:43:26,780][train.py][line:103][INFO] minimal eigenvalue:0.018
+[2022-12-01 21:43:26,780][train.py][line:104][INFO] condition number:1161.019
+[2022-12-01 21:43:26,801][train.py][line:117][INFO] Epoch:9 	 loss=0.29572	
+[2022-12-01 21:43:26,870][train.py][line:102][INFO] mean of correlation:0.142
+[2022-12-01 21:43:26,872][train.py][line:103][INFO] minimal eigenvalue:0.020
+[2022-12-01 21:43:26,874][train.py][line:104][INFO] condition number:991.897
+[2022-12-01 21:43:26,896][train.py][line:117][INFO] Epoch:9 	 loss=0.32140	
+[2022-12-01 21:43:26,965][train.py][line:102][INFO] mean of correlation:0.145
+[2022-12-01 21:43:26,965][train.py][line:103][INFO] minimal eigenvalue:0.015
+[2022-12-01 21:43:26,966][train.py][line:104][INFO] condition number:1302.592
+[2022-12-01 21:43:26,986][train.py][line:117][INFO] Epoch:9 	 loss=0.30690	
+[2022-12-01 21:43:27,166][train.py][line:102][INFO] mean of correlation:0.144
+[2022-12-01 21:43:27,167][train.py][line:103][INFO] minimal eigenvalue:0.018
+[2022-12-01 21:43:27,167][train.py][line:104][INFO] condition number:1114.022
+[2022-12-01 21:43:27,187][train.py][line:117][INFO] Epoch:9 	 loss=0.34235	
+[2022-12-01 21:43:27,261][train.py][line:102][INFO] mean of correlation:0.142
+[2022-12-01 21:43:27,262][train.py][line:103][INFO] minimal eigenvalue:0.017
+[2022-12-01 21:43:27,262][train.py][line:104][INFO] condition number:1156.305
+[2022-12-01 21:43:27,283][train.py][line:117][INFO] Epoch:10 	 loss=0.33003	
+[2022-12-01 21:43:27,352][train.py][line:102][INFO] mean of correlation:0.148
+[2022-12-01 21:43:27,353][train.py][line:103][INFO] minimal eigenvalue:0.019
+[2022-12-01 21:43:27,353][train.py][line:104][INFO] condition number:1086.785
+[2022-12-01 21:43:27,374][train.py][line:117][INFO] Epoch:10 	 loss=0.29973	
+[2022-12-01 21:43:27,442][train.py][line:102][INFO] mean of correlation:0.146
+[2022-12-01 21:43:27,443][train.py][line:103][INFO] minimal eigenvalue:0.016
+[2022-12-01 21:43:27,444][train.py][line:104][INFO] condition number:1263.290
+[2022-12-01 21:43:27,465][train.py][line:117][INFO] Epoch:10 	 loss=0.29673	
+[2022-12-01 21:43:27,646][train.py][line:102][INFO] mean of correlation:0.142
+[2022-12-01 21:43:27,647][train.py][line:103][INFO] minimal eigenvalue:0.013
+[2022-12-01 21:43:27,647][train.py][line:104][INFO] condition number:1513.659
+[2022-12-01 21:43:27,668][train.py][line:117][INFO] Epoch:10 	 loss=0.28100	
+[2022-12-01 21:43:27,742][train.py][line:102][INFO] mean of correlation:0.140
+[2022-12-01 21:43:27,743][train.py][line:103][INFO] minimal eigenvalue:0.015
+[2022-12-01 21:43:27,744][train.py][line:104][INFO] condition number:1245.900
+[2022-12-01 21:43:27,764][train.py][line:117][INFO] Epoch:11 	 loss=0.29524	
+[2022-12-01 21:43:27,834][train.py][line:102][INFO] mean of correlation:0.145
+[2022-12-01 21:43:27,835][train.py][line:103][INFO] minimal eigenvalue:0.015
+[2022-12-01 21:43:27,836][train.py][line:104][INFO] condition number:1393.840
+[2022-12-01 21:43:27,856][train.py][line:117][INFO] Epoch:11 	 loss=0.29979	
+[2022-12-01 21:43:27,925][train.py][line:102][INFO] mean of correlation:0.144
+[2022-12-01 21:43:27,926][train.py][line:103][INFO] minimal eigenvalue:0.017
+[2022-12-01 21:43:27,926][train.py][line:104][INFO] condition number:1190.601
+[2022-12-01 21:43:27,947][train.py][line:117][INFO] Epoch:11 	 loss=0.29677	
+[2022-12-01 21:43:28,130][train.py][line:102][INFO] mean of correlation:0.151
+[2022-12-01 21:43:28,131][train.py][line:103][INFO] minimal eigenvalue:0.014
+[2022-12-01 21:43:28,132][train.py][line:104][INFO] condition number:1474.596
+[2022-12-01 21:43:28,153][train.py][line:117][INFO] Epoch:11 	 loss=0.27860	
+[2022-12-01 21:43:28,228][train.py][line:102][INFO] mean of correlation:0.142
+[2022-12-01 21:43:28,229][train.py][line:103][INFO] minimal eigenvalue:0.014
+[2022-12-01 21:43:28,230][train.py][line:104][INFO] condition number:1405.574
+[2022-12-01 21:43:28,250][train.py][line:117][INFO] Epoch:12 	 loss=0.28751	
+[2022-12-01 21:43:28,323][train.py][line:102][INFO] mean of correlation:0.144
+[2022-12-01 21:43:28,324][train.py][line:103][INFO] minimal eigenvalue:0.016
+[2022-12-01 21:43:28,324][train.py][line:104][INFO] condition number:1193.780
+[2022-12-01 21:43:28,345][train.py][line:117][INFO] Epoch:12 	 loss=0.28732	
+[2022-12-01 21:43:28,417][train.py][line:102][INFO] mean of correlation:0.142
+[2022-12-01 21:43:28,418][train.py][line:103][INFO] minimal eigenvalue:0.014
+[2022-12-01 21:43:28,419][train.py][line:104][INFO] condition number:1406.921
+[2022-12-01 21:43:28,439][train.py][line:117][INFO] Epoch:12 	 loss=0.29961	
+[2022-12-01 21:43:28,625][train.py][line:102][INFO] mean of correlation:0.149
+[2022-12-01 21:43:28,625][train.py][line:103][INFO] minimal eigenvalue:0.014
+[2022-12-01 21:43:28,626][train.py][line:104][INFO] condition number:1502.560
+[2022-12-01 21:43:28,646][train.py][line:117][INFO] Epoch:12 	 loss=0.26216	
+[2022-12-01 21:43:28,725][train.py][line:102][INFO] mean of correlation:0.142
+[2022-12-01 21:43:28,725][train.py][line:103][INFO] minimal eigenvalue:0.013
+[2022-12-01 21:43:28,726][train.py][line:104][INFO] condition number:1509.272
+[2022-12-01 21:43:28,747][train.py][line:117][INFO] Epoch:13 	 loss=0.26578	
+[2022-12-01 21:43:28,817][train.py][line:102][INFO] mean of correlation:0.136
+[2022-12-01 21:43:28,818][train.py][line:103][INFO] minimal eigenvalue:0.015
+[2022-12-01 21:43:28,819][train.py][line:104][INFO] condition number:1286.373
+[2022-12-01 21:43:28,840][train.py][line:117][INFO] Epoch:13 	 loss=0.29068	
+[2022-12-01 21:43:28,909][train.py][line:102][INFO] mean of correlation:0.149
+[2022-12-01 21:43:28,910][train.py][line:103][INFO] minimal eigenvalue:0.014
+[2022-12-01 21:43:28,910][train.py][line:104][INFO] condition number:1447.902
+[2022-12-01 21:43:28,930][train.py][line:117][INFO] Epoch:13 	 loss=0.27102	
+[2022-12-01 21:43:29,108][train.py][line:102][INFO] mean of correlation:0.146
+[2022-12-01 21:43:29,109][train.py][line:103][INFO] minimal eigenvalue:0.014
+[2022-12-01 21:43:29,110][train.py][line:104][INFO] condition number:1416.146
+[2022-12-01 21:43:29,130][train.py][line:117][INFO] Epoch:13 	 loss=0.26718	
+[2022-12-01 21:43:29,199][train.py][line:102][INFO] mean of correlation:0.142
+[2022-12-01 21:43:29,200][train.py][line:103][INFO] minimal eigenvalue:0.018
+[2022-12-01 21:43:29,201][train.py][line:104][INFO] condition number:1116.561
+[2022-12-01 21:43:29,221][train.py][line:117][INFO] Epoch:14 	 loss=0.28473	
+[2022-12-01 21:43:29,310][train.py][line:102][INFO] mean of correlation:0.140
+[2022-12-01 21:43:29,311][train.py][line:103][INFO] minimal eigenvalue:0.015
+[2022-12-01 21:43:29,311][train.py][line:104][INFO] condition number:1299.798
+[2022-12-01 21:43:29,332][train.py][line:117][INFO] Epoch:14 	 loss=0.26256	
+[2022-12-01 21:43:29,408][train.py][line:102][INFO] mean of correlation:0.146
+[2022-12-01 21:43:29,408][train.py][line:103][INFO] minimal eigenvalue:0.013
+[2022-12-01 21:43:29,409][train.py][line:104][INFO] condition number:1541.391
+[2022-12-01 21:43:29,429][train.py][line:117][INFO] Epoch:14 	 loss=0.27722	
+[2022-12-01 21:43:29,608][train.py][line:102][INFO] mean of correlation:0.146
+[2022-12-01 21:43:29,608][train.py][line:103][INFO] minimal eigenvalue:0.012
+[2022-12-01 21:43:29,609][train.py][line:104][INFO] condition number:1656.008
+[2022-12-01 21:43:29,630][train.py][line:117][INFO] Epoch:14 	 loss=0.26287	
+[2022-12-01 21:43:29,702][train.py][line:102][INFO] mean of correlation:0.147
+[2022-12-01 21:43:29,702][train.py][line:103][INFO] minimal eigenvalue:0.013
+[2022-12-01 21:43:29,703][train.py][line:104][INFO] condition number:1562.638
+[2022-12-01 21:43:29,724][train.py][line:117][INFO] Epoch:15 	 loss=0.25380	
+[2022-12-01 21:43:29,797][train.py][line:102][INFO] mean of correlation:0.140
+[2022-12-01 21:43:29,797][train.py][line:103][INFO] minimal eigenvalue:0.014
+[2022-12-01 21:43:29,798][train.py][line:104][INFO] condition number:1421.708
+[2022-12-01 21:43:29,818][train.py][line:117][INFO] Epoch:15 	 loss=0.25588	
+[2022-12-01 21:43:29,887][train.py][line:102][INFO] mean of correlation:0.143
+[2022-12-01 21:43:29,888][train.py][line:103][INFO] minimal eigenvalue:0.015
+[2022-12-01 21:43:29,889][train.py][line:104][INFO] condition number:1291.856
+[2022-12-01 21:43:29,909][train.py][line:117][INFO] Epoch:15 	 loss=0.24758	
+[2022-12-01 21:43:30,093][train.py][line:102][INFO] mean of correlation:0.144
+[2022-12-01 21:43:30,094][train.py][line:103][INFO] minimal eigenvalue:0.016
+[2022-12-01 21:43:30,095][train.py][line:104][INFO] condition number:1237.569
+[2022-12-01 21:43:30,116][train.py][line:117][INFO] Epoch:15 	 loss=0.26764	
+[2022-12-01 21:43:30,186][train.py][line:102][INFO] mean of correlation:0.142
+[2022-12-01 21:43:30,187][train.py][line:103][INFO] minimal eigenvalue:0.013
+[2022-12-01 21:43:30,188][train.py][line:104][INFO] condition number:1484.394
+[2022-12-01 21:43:30,209][train.py][line:117][INFO] Epoch:16 	 loss=0.26540	
+[2022-12-01 21:43:30,278][train.py][line:102][INFO] mean of correlation:0.145
+[2022-12-01 21:43:30,278][train.py][line:103][INFO] minimal eigenvalue:0.015
+[2022-12-01 21:43:30,279][train.py][line:104][INFO] condition number:1325.273
+[2022-12-01 21:43:30,300][train.py][line:117][INFO] Epoch:16 	 loss=0.23402	
+[2022-12-01 21:43:30,374][train.py][line:102][INFO] mean of correlation:0.143
+[2022-12-01 21:43:30,374][train.py][line:103][INFO] minimal eigenvalue:0.015
+[2022-12-01 21:43:30,375][train.py][line:104][INFO] condition number:1269.924
+[2022-12-01 21:43:30,396][train.py][line:117][INFO] Epoch:16 	 loss=0.24342	
+[2022-12-01 21:43:30,575][train.py][line:102][INFO] mean of correlation:0.146
+[2022-12-01 21:43:30,576][train.py][line:103][INFO] minimal eigenvalue:0.014
+[2022-12-01 21:43:30,577][train.py][line:104][INFO] condition number:1448.521
+[2022-12-01 21:43:30,598][train.py][line:117][INFO] Epoch:16 	 loss=0.25587	
+[2022-12-01 21:43:30,671][train.py][line:102][INFO] mean of correlation:0.144
+[2022-12-01 21:43:30,672][train.py][line:103][INFO] minimal eigenvalue:0.017
+[2022-12-01 21:43:30,672][train.py][line:104][INFO] condition number:1213.096
+[2022-12-01 21:43:30,693][train.py][line:117][INFO] Epoch:17 	 loss=0.27656	
+[2022-12-01 21:43:30,762][train.py][line:102][INFO] mean of correlation:0.143
+[2022-12-01 21:43:30,763][train.py][line:103][INFO] minimal eigenvalue:0.013
+[2022-12-01 21:43:30,764][train.py][line:104][INFO] condition number:1496.470
+[2022-12-01 21:43:30,784][train.py][line:117][INFO] Epoch:17 	 loss=0.25486	
+[2022-12-01 21:43:30,852][train.py][line:102][INFO] mean of correlation:0.145
+[2022-12-01 21:43:30,853][train.py][line:103][INFO] minimal eigenvalue:0.014
+[2022-12-01 21:43:30,853][train.py][line:104][INFO] condition number:1381.837
+[2022-12-01 21:43:30,874][train.py][line:117][INFO] Epoch:17 	 loss=0.24724	
+[2022-12-01 21:43:31,056][train.py][line:102][INFO] mean of correlation:0.146
+[2022-12-01 21:43:31,057][train.py][line:103][INFO] minimal eigenvalue:0.015
+[2022-12-01 21:43:31,058][train.py][line:104][INFO] condition number:1343.252
+[2022-12-01 21:43:31,079][train.py][line:117][INFO] Epoch:17 	 loss=0.24136	
+[2022-12-01 21:43:31,147][train.py][line:102][INFO] mean of correlation:0.146
+[2022-12-01 21:43:31,148][train.py][line:103][INFO] minimal eigenvalue:0.014
+[2022-12-01 21:43:31,148][train.py][line:104][INFO] condition number:1418.336
+[2022-12-01 21:43:31,169][train.py][line:117][INFO] Epoch:18 	 loss=0.25816	
+[2022-12-01 21:43:31,241][train.py][line:102][INFO] mean of correlation:0.144
+[2022-12-01 21:43:31,242][train.py][line:103][INFO] minimal eigenvalue:0.015
+[2022-12-01 21:43:31,242][train.py][line:104][INFO] condition number:1270.990
+[2022-12-01 21:43:31,263][train.py][line:117][INFO] Epoch:18 	 loss=0.24348	
+[2022-12-01 21:43:31,335][train.py][line:102][INFO] mean of correlation:0.149
+[2022-12-01 21:43:31,335][train.py][line:103][INFO] minimal eigenvalue:0.016
+[2022-12-01 21:43:31,336][train.py][line:104][INFO] condition number:1324.069
+[2022-12-01 21:43:31,358][train.py][line:117][INFO] Epoch:18 	 loss=0.24499	
+[2022-12-01 21:43:31,537][train.py][line:102][INFO] mean of correlation:0.139
+[2022-12-01 21:43:31,538][train.py][line:103][INFO] minimal eigenvalue:0.014
+[2022-12-01 21:43:31,539][train.py][line:104][INFO] condition number:1352.624
+[2022-12-01 21:43:31,560][train.py][line:117][INFO] Epoch:18 	 loss=0.25436	
+[2022-12-01 21:43:31,638][train.py][line:102][INFO] mean of correlation:0.142
+[2022-12-01 21:43:31,638][train.py][line:103][INFO] minimal eigenvalue:0.017
+[2022-12-01 21:43:31,639][train.py][line:104][INFO] condition number:1159.654
+[2022-12-01 21:43:31,660][train.py][line:117][INFO] Epoch:19 	 loss=0.24425	
+[2022-12-01 21:43:31,739][train.py][line:102][INFO] mean of correlation:0.145
+[2022-12-01 21:43:31,740][train.py][line:103][INFO] minimal eigenvalue:0.014
+[2022-12-01 21:43:31,740][train.py][line:104][INFO] condition number:1398.164
+[2022-12-01 21:43:31,760][train.py][line:117][INFO] Epoch:19 	 loss=0.23334	
+[2022-12-01 21:43:31,834][train.py][line:102][INFO] mean of correlation:0.148
+[2022-12-01 21:43:31,835][train.py][line:103][INFO] minimal eigenvalue:0.015
+[2022-12-01 21:43:31,835][train.py][line:104][INFO] condition number:1377.938
+[2022-12-01 21:43:31,855][train.py][line:117][INFO] Epoch:19 	 loss=0.23845	
+[2022-12-01 21:43:32,040][train.py][line:102][INFO] mean of correlation:0.145
+[2022-12-01 21:43:32,041][train.py][line:103][INFO] minimal eigenvalue:0.014
+[2022-12-01 21:43:32,041][train.py][line:104][INFO] condition number:1409.096
+[2022-12-01 21:43:32,063][train.py][line:117][INFO] Epoch:19 	 loss=0.24985	
+[2022-12-01 21:43:32,133][train.py][line:102][INFO] mean of correlation:0.148
+[2022-12-01 21:43:32,133][train.py][line:103][INFO] minimal eigenvalue:0.015
+[2022-12-01 21:43:32,134][train.py][line:104][INFO] condition number:1369.712
+[2022-12-01 21:43:32,155][train.py][line:117][INFO] Epoch:20 	 loss=0.23594	
+[2022-12-01 21:43:32,227][train.py][line:102][INFO] mean of correlation:0.143
+[2022-12-01 21:43:32,228][train.py][line:103][INFO] minimal eigenvalue:0.015
+[2022-12-01 21:43:32,229][train.py][line:104][INFO] condition number:1298.942
+[2022-12-01 21:43:32,249][train.py][line:117][INFO] Epoch:20 	 loss=0.23881	
+[2022-12-01 21:43:32,319][train.py][line:102][INFO] mean of correlation:0.147
+[2022-12-01 21:43:32,320][train.py][line:103][INFO] minimal eigenvalue:0.015
+[2022-12-01 21:43:32,320][train.py][line:104][INFO] condition number:1381.322
+[2022-12-01 21:43:32,341][train.py][line:117][INFO] Epoch:20 	 loss=0.23114	
+[2022-12-01 21:43:32,525][train.py][line:102][INFO] mean of correlation:0.144
+[2022-12-01 21:43:32,526][train.py][line:103][INFO] minimal eigenvalue:0.018
+[2022-12-01 21:43:32,526][train.py][line:104][INFO] condition number:1115.564
+[2022-12-01 21:43:32,547][train.py][line:117][INFO] Epoch:20 	 loss=0.21872	
+[2022-12-01 21:43:32,615][train.py][line:102][INFO] mean of correlation:0.146
+[2022-12-01 21:43:32,616][train.py][line:103][INFO] minimal eigenvalue:0.015
+[2022-12-01 21:43:32,617][train.py][line:104][INFO] condition number:1374.876
+[2022-12-01 21:43:32,638][train.py][line:117][INFO] Epoch:21 	 loss=0.21469	
+[2022-12-01 21:43:32,710][train.py][line:102][INFO] mean of correlation:0.145
+[2022-12-01 21:43:32,711][train.py][line:103][INFO] minimal eigenvalue:0.017
+[2022-12-01 21:43:32,711][train.py][line:104][INFO] condition number:1184.629
+[2022-12-01 21:43:32,732][train.py][line:117][INFO] Epoch:21 	 loss=0.23046	
+[2022-12-01 21:43:32,801][train.py][line:102][INFO] mean of correlation:0.148
+[2022-12-01 21:43:32,801][train.py][line:103][INFO] minimal eigenvalue:0.014
+[2022-12-01 21:43:32,802][train.py][line:104][INFO] condition number:1429.944
+[2022-12-01 21:43:32,823][train.py][line:117][INFO] Epoch:21 	 loss=0.22151	
+[2022-12-01 21:43:33,003][train.py][line:102][INFO] mean of correlation:0.144
+[2022-12-01 21:43:33,004][train.py][line:103][INFO] minimal eigenvalue:0.017
+[2022-12-01 21:43:33,004][train.py][line:104][INFO] condition number:1168.285
+[2022-12-01 21:43:33,026][train.py][line:117][INFO] Epoch:21 	 loss=0.24357	
+[2022-12-01 21:43:33,096][train.py][line:102][INFO] mean of correlation:0.150
+[2022-12-01 21:43:33,097][train.py][line:103][INFO] minimal eigenvalue:0.014
+[2022-12-01 21:43:33,097][train.py][line:104][INFO] condition number:1470.086
+[2022-12-01 21:43:33,117][train.py][line:117][INFO] Epoch:22 	 loss=0.23858	
+[2022-12-01 21:43:33,186][train.py][line:102][INFO] mean of correlation:0.145
+[2022-12-01 21:43:33,187][train.py][line:103][INFO] minimal eigenvalue:0.017
+[2022-12-01 21:43:33,187][train.py][line:104][INFO] condition number:1165.291
+[2022-12-01 21:43:33,208][train.py][line:117][INFO] Epoch:22 	 loss=0.21939	
+[2022-12-01 21:43:33,279][train.py][line:102][INFO] mean of correlation:0.148
+[2022-12-01 21:43:33,279][train.py][line:103][INFO] minimal eigenvalue:0.017
+[2022-12-01 21:43:33,280][train.py][line:104][INFO] condition number:1172.572
+[2022-12-01 21:43:33,300][train.py][line:117][INFO] Epoch:22 	 loss=0.21408	
+[2022-12-01 21:43:33,483][train.py][line:102][INFO] mean of correlation:0.139
+[2022-12-01 21:43:33,484][train.py][line:103][INFO] minimal eigenvalue:0.016
+[2022-12-01 21:43:33,484][train.py][line:104][INFO] condition number:1229.488
+[2022-12-01 21:43:33,505][train.py][line:117][INFO] Epoch:22 	 loss=0.22322	
+[2022-12-01 21:43:33,574][train.py][line:102][INFO] mean of correlation:0.144
+[2022-12-01 21:43:33,575][train.py][line:103][INFO] minimal eigenvalue:0.016
+[2022-12-01 21:43:33,576][train.py][line:104][INFO] condition number:1232.479
+[2022-12-01 21:43:33,597][train.py][line:117][INFO] Epoch:23 	 loss=0.23215	
+[2022-12-01 21:43:33,673][train.py][line:102][INFO] mean of correlation:0.146
+[2022-12-01 21:43:33,674][train.py][line:103][INFO] minimal eigenvalue:0.019
+[2022-12-01 21:43:33,675][train.py][line:104][INFO] condition number:1058.389
+[2022-12-01 21:43:33,696][train.py][line:117][INFO] Epoch:23 	 loss=0.23010	
+[2022-12-01 21:43:33,764][train.py][line:102][INFO] mean of correlation:0.147
+[2022-12-01 21:43:33,765][train.py][line:103][INFO] minimal eigenvalue:0.016
+[2022-12-01 21:43:33,765][train.py][line:104][INFO] condition number:1269.807
+[2022-12-01 21:43:33,785][train.py][line:117][INFO] Epoch:23 	 loss=0.23596	
+[2022-12-01 21:43:33,970][train.py][line:102][INFO] mean of correlation:0.146
+[2022-12-01 21:43:33,970][train.py][line:103][INFO] minimal eigenvalue:0.014
+[2022-12-01 21:43:33,971][train.py][line:104][INFO] condition number:1435.935
+[2022-12-01 21:43:33,991][train.py][line:117][INFO] Epoch:23 	 loss=0.23300	
+[2022-12-01 21:43:34,060][train.py][line:102][INFO] mean of correlation:0.144
+[2022-12-01 21:43:34,061][train.py][line:103][INFO] minimal eigenvalue:0.016
+[2022-12-01 21:43:34,061][train.py][line:104][INFO] condition number:1270.069
+[2022-12-01 21:43:34,083][train.py][line:117][INFO] Epoch:24 	 loss=0.22830	
+[2022-12-01 21:43:34,153][train.py][line:102][INFO] mean of correlation:0.145
+[2022-12-01 21:43:34,154][train.py][line:103][INFO] minimal eigenvalue:0.017
+[2022-12-01 21:43:34,154][train.py][line:104][INFO] condition number:1126.748
+[2022-12-01 21:43:34,173][train.py][line:117][INFO] Epoch:24 	 loss=0.22142	
+[2022-12-01 21:43:34,242][train.py][line:102][INFO] mean of correlation:0.146
+[2022-12-01 21:43:34,243][train.py][line:103][INFO] minimal eigenvalue:0.017
+[2022-12-01 21:43:34,243][train.py][line:104][INFO] condition number:1217.516
+[2022-12-01 21:43:34,264][train.py][line:117][INFO] Epoch:24 	 loss=0.21722	
+[2022-12-01 21:43:34,446][train.py][line:102][INFO] mean of correlation:0.146
+[2022-12-01 21:43:34,447][train.py][line:103][INFO] minimal eigenvalue:0.017
+[2022-12-01 21:43:34,448][train.py][line:104][INFO] condition number:1219.728
+[2022-12-01 21:43:34,469][train.py][line:117][INFO] Epoch:24 	 loss=0.22603	
+[2022-12-01 21:43:34,545][train.py][line:102][INFO] mean of correlation:0.143
+[2022-12-01 21:43:34,545][train.py][line:103][INFO] minimal eigenvalue:0.017
+[2022-12-01 21:43:34,546][train.py][line:104][INFO] condition number:1185.523
+[2022-12-01 21:43:34,567][train.py][line:117][INFO] Epoch:25 	 loss=0.22812	
+[2022-12-01 21:43:34,635][train.py][line:102][INFO] mean of correlation:0.143
+[2022-12-01 21:43:34,636][train.py][line:103][INFO] minimal eigenvalue:0.019
+[2022-12-01 21:43:34,637][train.py][line:104][INFO] condition number:1041.582
+[2022-12-01 21:43:34,657][train.py][line:117][INFO] Epoch:25 	 loss=0.20325	
+[2022-12-01 21:43:34,727][train.py][line:102][INFO] mean of correlation:0.145
+[2022-12-01 21:43:34,728][train.py][line:103][INFO] minimal eigenvalue:0.015
+[2022-12-01 21:43:34,728][train.py][line:104][INFO] condition number:1308.419
+[2022-12-01 21:43:34,749][train.py][line:117][INFO] Epoch:25 	 loss=0.23488	
+[2022-12-01 21:43:34,931][train.py][line:102][INFO] mean of correlation:0.147
+[2022-12-01 21:43:34,931][train.py][line:103][INFO] minimal eigenvalue:0.016
+[2022-12-01 21:43:34,932][train.py][line:104][INFO] condition number:1243.543
+[2022-12-01 21:43:34,953][train.py][line:117][INFO] Epoch:25 	 loss=0.21116	
+[2022-12-01 21:43:35,032][train.py][line:102][INFO] mean of correlation:0.143
+[2022-12-01 21:43:35,033][train.py][line:103][INFO] minimal eigenvalue:0.016
+[2022-12-01 21:43:35,033][train.py][line:104][INFO] condition number:1217.257
+[2022-12-01 21:43:35,054][train.py][line:117][INFO] Epoch:26 	 loss=0.22215	
+[2022-12-01 21:43:35,127][train.py][line:102][INFO] mean of correlation:0.146
+[2022-12-01 21:43:35,128][train.py][line:103][INFO] minimal eigenvalue:0.016
+[2022-12-01 21:43:35,129][train.py][line:104][INFO] condition number:1242.324
+[2022-12-01 21:43:35,150][train.py][line:117][INFO] Epoch:26 	 loss=0.22666	
+[2022-12-01 21:43:35,225][train.py][line:102][INFO] mean of correlation:0.144
+[2022-12-01 21:43:35,226][train.py][line:103][INFO] minimal eigenvalue:0.019
+[2022-12-01 21:43:35,227][train.py][line:104][INFO] condition number:1065.550
+[2022-12-01 21:43:35,247][train.py][line:117][INFO] Epoch:26 	 loss=0.21952	
+[2022-12-01 21:43:35,427][train.py][line:102][INFO] mean of correlation:0.142
+[2022-12-01 21:43:35,428][train.py][line:103][INFO] minimal eigenvalue:0.017
+[2022-12-01 21:43:35,428][train.py][line:104][INFO] condition number:1118.115
+[2022-12-01 21:43:35,450][train.py][line:117][INFO] Epoch:26 	 loss=0.21649	
+[2022-12-01 21:43:35,519][train.py][line:102][INFO] mean of correlation:0.142
+[2022-12-01 21:43:35,520][train.py][line:103][INFO] minimal eigenvalue:0.016
+[2022-12-01 21:43:35,521][train.py][line:104][INFO] condition number:1226.886
+[2022-12-01 21:43:35,542][train.py][line:117][INFO] Epoch:27 	 loss=0.21770	
+[2022-12-01 21:43:35,610][train.py][line:102][INFO] mean of correlation:0.145
+[2022-12-01 21:43:35,611][train.py][line:103][INFO] minimal eigenvalue:0.018
+[2022-12-01 21:43:35,612][train.py][line:104][INFO] condition number:1110.225
+[2022-12-01 21:43:35,632][train.py][line:117][INFO] Epoch:27 	 loss=0.21361	
+[2022-12-01 21:43:35,707][train.py][line:102][INFO] mean of correlation:0.145
+[2022-12-01 21:43:35,708][train.py][line:103][INFO] minimal eigenvalue:0.017
+[2022-12-01 21:43:35,709][train.py][line:104][INFO] condition number:1141.412
+[2022-12-01 21:43:35,729][train.py][line:117][INFO] Epoch:27 	 loss=0.20391	
+[2022-12-01 21:43:35,912][train.py][line:102][INFO] mean of correlation:0.144
+[2022-12-01 21:43:35,912][train.py][line:103][INFO] minimal eigenvalue:0.019
+[2022-12-01 21:43:35,913][train.py][line:104][INFO] condition number:1041.420
+[2022-12-01 21:43:35,934][train.py][line:117][INFO] Epoch:27 	 loss=0.20902	
+[2022-12-01 21:43:36,004][train.py][line:102][INFO] mean of correlation:0.143
+[2022-12-01 21:43:36,005][train.py][line:103][INFO] minimal eigenvalue:0.018
+[2022-12-01 21:43:36,005][train.py][line:104][INFO] condition number:1086.103
+[2022-12-01 21:43:36,026][train.py][line:117][INFO] Epoch:28 	 loss=0.21530	
+[2022-12-01 21:43:36,095][train.py][line:102][INFO] mean of correlation:0.145
+[2022-12-01 21:43:36,096][train.py][line:103][INFO] minimal eigenvalue:0.016
+[2022-12-01 21:43:36,097][train.py][line:104][INFO] condition number:1227.777
+[2022-12-01 21:43:36,117][train.py][line:117][INFO] Epoch:28 	 loss=0.20263	
+[2022-12-01 21:43:36,190][train.py][line:102][INFO] mean of correlation:0.144
+[2022-12-01 21:43:36,190][train.py][line:103][INFO] minimal eigenvalue:0.019
+[2022-12-01 21:43:36,191][train.py][line:104][INFO] condition number:1064.775
+[2022-12-01 21:43:36,212][train.py][line:117][INFO] Epoch:28 	 loss=0.21620	
+[2022-12-01 21:43:36,396][train.py][line:102][INFO] mean of correlation:0.145
+[2022-12-01 21:43:36,396][train.py][line:103][INFO] minimal eigenvalue:0.019
+[2022-12-01 21:43:36,397][train.py][line:104][INFO] condition number:1041.623
+[2022-12-01 21:43:36,418][train.py][line:117][INFO] Epoch:28 	 loss=0.19441	
+[2022-12-01 21:43:36,492][train.py][line:102][INFO] mean of correlation:0.143
+[2022-12-01 21:43:36,493][train.py][line:103][INFO] minimal eigenvalue:0.020
+[2022-12-01 21:43:36,494][train.py][line:104][INFO] condition number:977.472
+[2022-12-01 21:43:36,515][train.py][line:117][INFO] Epoch:29 	 loss=0.21050	
+[2022-12-01 21:43:36,588][train.py][line:102][INFO] mean of correlation:0.144
+[2022-12-01 21:43:36,589][train.py][line:103][INFO] minimal eigenvalue:0.018
+[2022-12-01 21:43:36,590][train.py][line:104][INFO] condition number:1138.956
+[2022-12-01 21:43:36,611][train.py][line:117][INFO] Epoch:29 	 loss=0.21796	
+[2022-12-01 21:43:36,680][train.py][line:102][INFO] mean of correlation:0.140
+[2022-12-01 21:43:36,680][train.py][line:103][INFO] minimal eigenvalue:0.019
+[2022-12-01 21:43:36,681][train.py][line:104][INFO] condition number:1000.859
+[2022-12-01 21:43:36,701][train.py][line:117][INFO] Epoch:29 	 loss=0.21933	
+[2022-12-01 21:43:36,879][train.py][line:102][INFO] mean of correlation:0.150
+[2022-12-01 21:43:36,880][train.py][line:103][INFO] minimal eigenvalue:0.017
+[2022-12-01 21:43:36,881][train.py][line:104][INFO] condition number:1205.059
+[2022-12-01 21:43:36,902][train.py][line:117][INFO] Epoch:29 	 loss=0.20757	
+[2022-12-01 21:43:36,973][train.py][line:102][INFO] mean of correlation:0.145
+[2022-12-01 21:43:36,973][train.py][line:103][INFO] minimal eigenvalue:0.018
+[2022-12-01 21:43:36,974][train.py][line:104][INFO] condition number:1107.867
+[2022-12-01 21:43:36,995][train.py][line:117][INFO] Epoch:30 	 loss=0.20669	
+[2022-12-01 21:43:37,066][train.py][line:102][INFO] mean of correlation:0.146
+[2022-12-01 21:43:37,067][train.py][line:103][INFO] minimal eigenvalue:0.019
+[2022-12-01 21:43:37,068][train.py][line:104][INFO] condition number:1051.073
+[2022-12-01 21:43:37,087][train.py][line:117][INFO] Epoch:30 	 loss=0.21005	
+[2022-12-01 21:43:37,160][train.py][line:102][INFO] mean of correlation:0.141
+[2022-12-01 21:43:37,161][train.py][line:103][INFO] minimal eigenvalue:0.019
+[2022-12-01 21:43:37,161][train.py][line:104][INFO] condition number:1019.934
+[2022-12-01 21:43:37,182][train.py][line:117][INFO] Epoch:30 	 loss=0.21140	
+[2022-12-01 21:43:37,370][train.py][line:102][INFO] mean of correlation:0.149
+[2022-12-01 21:43:37,371][train.py][line:103][INFO] minimal eigenvalue:0.017
+[2022-12-01 21:43:37,372][train.py][line:104][INFO] condition number:1198.047
+[2022-12-01 21:43:37,393][train.py][line:117][INFO] Epoch:30 	 loss=0.22637	
+[2022-12-01 21:43:37,463][train.py][line:102][INFO] mean of correlation:0.145
+[2022-12-01 21:43:37,464][train.py][line:103][INFO] minimal eigenvalue:0.021
+[2022-12-01 21:43:37,465][train.py][line:104][INFO] condition number:971.129
+[2022-12-01 21:43:37,486][train.py][line:117][INFO] Epoch:31 	 loss=0.20668	
+[2022-12-01 21:43:37,579][train.py][line:102][INFO] mean of correlation:0.144
+[2022-12-01 21:43:37,580][train.py][line:103][INFO] minimal eigenvalue:0.021
+[2022-12-01 21:43:37,580][train.py][line:104][INFO] condition number:959.841
+[2022-12-01 21:43:37,601][train.py][line:117][INFO] Epoch:31 	 loss=0.19104	
+[2022-12-01 21:43:37,677][train.py][line:102][INFO] mean of correlation:0.150
+[2022-12-01 21:43:37,678][train.py][line:103][INFO] minimal eigenvalue:0.018
+[2022-12-01 21:43:37,679][train.py][line:104][INFO] condition number:1175.122
+[2022-12-01 21:43:37,700][train.py][line:117][INFO] Epoch:31 	 loss=0.20040	
+[2022-12-01 21:43:37,879][train.py][line:102][INFO] mean of correlation:0.147
+[2022-12-01 21:43:37,880][train.py][line:103][INFO] minimal eigenvalue:0.019
+[2022-12-01 21:43:37,881][train.py][line:104][INFO] condition number:1063.890
+[2022-12-01 21:43:37,902][train.py][line:117][INFO] Epoch:31 	 loss=0.18097	
+[2022-12-01 21:43:37,971][train.py][line:102][INFO] mean of correlation:0.147
+[2022-12-01 21:43:37,972][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:43:37,973][train.py][line:104][INFO] condition number:890.010
+[2022-12-01 21:43:37,994][train.py][line:117][INFO] Epoch:32 	 loss=0.19950	
+[2022-12-01 21:43:38,064][train.py][line:102][INFO] mean of correlation:0.143
+[2022-12-01 21:43:38,065][train.py][line:103][INFO] minimal eigenvalue:0.019
+[2022-12-01 21:43:38,066][train.py][line:104][INFO] condition number:1007.367
+[2022-12-01 21:43:38,086][train.py][line:117][INFO] Epoch:32 	 loss=0.21011	
+[2022-12-01 21:43:38,154][train.py][line:102][INFO] mean of correlation:0.150
+[2022-12-01 21:43:38,155][train.py][line:103][INFO] minimal eigenvalue:0.018
+[2022-12-01 21:43:38,155][train.py][line:104][INFO] condition number:1165.538
+[2022-12-01 21:43:38,176][train.py][line:117][INFO] Epoch:32 	 loss=0.18895	
+[2022-12-01 21:43:38,355][train.py][line:102][INFO] mean of correlation:0.150
+[2022-12-01 21:43:38,356][train.py][line:103][INFO] minimal eigenvalue:0.019
+[2022-12-01 21:43:38,356][train.py][line:104][INFO] condition number:1091.933
+[2022-12-01 21:43:38,378][train.py][line:117][INFO] Epoch:32 	 loss=0.20753	
+[2022-12-01 21:43:38,451][train.py][line:102][INFO] mean of correlation:0.150
+[2022-12-01 21:43:38,452][train.py][line:103][INFO] minimal eigenvalue:0.017
+[2022-12-01 21:43:38,452][train.py][line:104][INFO] condition number:1170.415
+[2022-12-01 21:43:38,473][train.py][line:117][INFO] Epoch:33 	 loss=0.20284	
+[2022-12-01 21:43:38,543][train.py][line:102][INFO] mean of correlation:0.146
+[2022-12-01 21:43:38,544][train.py][line:103][INFO] minimal eigenvalue:0.018
+[2022-12-01 21:43:38,544][train.py][line:104][INFO] condition number:1114.279
+[2022-12-01 21:43:38,565][train.py][line:117][INFO] Epoch:33 	 loss=0.21651	
+[2022-12-01 21:43:38,633][train.py][line:102][INFO] mean of correlation:0.146
+[2022-12-01 21:43:38,634][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:43:38,634][train.py][line:104][INFO] condition number:902.492
+[2022-12-01 21:43:38,655][train.py][line:117][INFO] Epoch:33 	 loss=0.20872	
+[2022-12-01 21:43:38,837][train.py][line:102][INFO] mean of correlation:0.149
+[2022-12-01 21:43:38,838][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:43:38,838][train.py][line:104][INFO] condition number:927.544
+[2022-12-01 21:43:38,859][train.py][line:117][INFO] Epoch:33 	 loss=0.21887	
+[2022-12-01 21:43:38,934][train.py][line:102][INFO] mean of correlation:0.150
+[2022-12-01 21:43:38,935][train.py][line:103][INFO] minimal eigenvalue:0.020
+[2022-12-01 21:43:38,936][train.py][line:104][INFO] condition number:996.468
+[2022-12-01 21:43:38,957][train.py][line:117][INFO] Epoch:34 	 loss=0.19922	
+[2022-12-01 21:43:39,031][train.py][line:102][INFO] mean of correlation:0.143
+[2022-12-01 21:43:39,032][train.py][line:103][INFO] minimal eigenvalue:0.020
+[2022-12-01 21:43:39,032][train.py][line:104][INFO] condition number:986.778
+[2022-12-01 21:43:39,053][train.py][line:117][INFO] Epoch:34 	 loss=0.19786	
+[2022-12-01 21:43:39,120][train.py][line:102][INFO] mean of correlation:0.149
+[2022-12-01 21:43:39,121][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:43:39,122][train.py][line:104][INFO] condition number:920.699
+[2022-12-01 21:43:39,143][train.py][line:117][INFO] Epoch:34 	 loss=0.20153	
+[2022-12-01 21:43:39,326][train.py][line:102][INFO] mean of correlation:0.150
+[2022-12-01 21:43:39,327][train.py][line:103][INFO] minimal eigenvalue:0.017
+[2022-12-01 21:43:39,328][train.py][line:104][INFO] condition number:1196.178
+[2022-12-01 21:43:39,349][train.py][line:117][INFO] Epoch:34 	 loss=0.18904	
+[2022-12-01 21:43:39,419][train.py][line:102][INFO] mean of correlation:0.150
+[2022-12-01 21:43:39,420][train.py][line:103][INFO] minimal eigenvalue:0.020
+[2022-12-01 21:43:39,420][train.py][line:104][INFO] condition number:1057.511
+[2022-12-01 21:43:39,440][train.py][line:117][INFO] Epoch:35 	 loss=0.20618	
+[2022-12-01 21:43:39,510][train.py][line:102][INFO] mean of correlation:0.144
+[2022-12-01 21:43:39,511][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:43:39,512][train.py][line:104][INFO] condition number:883.540
+[2022-12-01 21:43:39,533][train.py][line:117][INFO] Epoch:35 	 loss=0.19010	
+[2022-12-01 21:43:39,610][train.py][line:102][INFO] mean of correlation:0.147
+[2022-12-01 21:43:39,611][train.py][line:103][INFO] minimal eigenvalue:0.021
+[2022-12-01 21:43:39,612][train.py][line:104][INFO] condition number:971.792
+[2022-12-01 21:43:39,633][train.py][line:117][INFO] Epoch:35 	 loss=0.20780	
+[2022-12-01 21:43:39,814][train.py][line:102][INFO] mean of correlation:0.147
+[2022-12-01 21:43:39,815][train.py][line:103][INFO] minimal eigenvalue:0.020
+[2022-12-01 21:43:39,815][train.py][line:104][INFO] condition number:1000.892
+[2022-12-01 21:43:39,836][train.py][line:117][INFO] Epoch:35 	 loss=0.19878	
+[2022-12-01 21:43:39,907][train.py][line:102][INFO] mean of correlation:0.149
+[2022-12-01 21:43:39,907][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:43:39,908][train.py][line:104][INFO] condition number:870.761
+[2022-12-01 21:43:39,928][train.py][line:117][INFO] Epoch:36 	 loss=0.19258	
+[2022-12-01 21:43:40,003][train.py][line:102][INFO] mean of correlation:0.146
+[2022-12-01 21:43:40,004][train.py][line:103][INFO] minimal eigenvalue:0.020
+[2022-12-01 21:43:40,005][train.py][line:104][INFO] condition number:1030.810
+[2022-12-01 21:43:40,026][train.py][line:117][INFO] Epoch:36 	 loss=0.18897	
+[2022-12-01 21:43:40,094][train.py][line:102][INFO] mean of correlation:0.150
+[2022-12-01 21:43:40,095][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:43:40,096][train.py][line:104][INFO] condition number:909.626
+[2022-12-01 21:43:40,117][train.py][line:117][INFO] Epoch:36 	 loss=0.19018	
+[2022-12-01 21:43:40,301][train.py][line:102][INFO] mean of correlation:0.143
+[2022-12-01 21:43:40,302][train.py][line:103][INFO] minimal eigenvalue:0.016
+[2022-12-01 21:43:40,303][train.py][line:104][INFO] condition number:1220.294
+[2022-12-01 21:43:40,324][train.py][line:117][INFO] Epoch:36 	 loss=0.21184	
+[2022-12-01 21:43:40,400][train.py][line:102][INFO] mean of correlation:0.146
+[2022-12-01 21:43:40,401][train.py][line:103][INFO] minimal eigenvalue:0.020
+[2022-12-01 21:43:40,401][train.py][line:104][INFO] condition number:1005.188
+[2022-12-01 21:43:40,422][train.py][line:117][INFO] Epoch:37 	 loss=0.20135	
+[2022-12-01 21:43:40,491][train.py][line:102][INFO] mean of correlation:0.146
+[2022-12-01 21:43:40,492][train.py][line:103][INFO] minimal eigenvalue:0.017
+[2022-12-01 21:43:40,493][train.py][line:104][INFO] condition number:1164.512
+[2022-12-01 21:43:40,514][train.py][line:117][INFO] Epoch:37 	 loss=0.19863	
+[2022-12-01 21:43:40,583][train.py][line:102][INFO] mean of correlation:0.147
+[2022-12-01 21:43:40,584][train.py][line:103][INFO] minimal eigenvalue:0.020
+[2022-12-01 21:43:40,584][train.py][line:104][INFO] condition number:994.798
+[2022-12-01 21:43:40,605][train.py][line:117][INFO] Epoch:37 	 loss=0.20856	
+[2022-12-01 21:43:40,788][train.py][line:102][INFO] mean of correlation:0.149
+[2022-12-01 21:43:40,789][train.py][line:103][INFO] minimal eigenvalue:0.026
+[2022-12-01 21:43:40,790][train.py][line:104][INFO] condition number:781.410
+[2022-12-01 21:43:40,811][train.py][line:117][INFO] Epoch:37 	 loss=0.19671	
+[2022-12-01 21:43:40,881][train.py][line:102][INFO] mean of correlation:0.146
+[2022-12-01 21:43:40,882][train.py][line:103][INFO] minimal eigenvalue:0.021
+[2022-12-01 21:43:40,883][train.py][line:104][INFO] condition number:964.263
+[2022-12-01 21:43:40,904][train.py][line:117][INFO] Epoch:38 	 loss=0.19335	
+[2022-12-01 21:43:40,982][train.py][line:102][INFO] mean of correlation:0.146
+[2022-12-01 21:43:40,983][train.py][line:103][INFO] minimal eigenvalue:0.019
+[2022-12-01 21:43:40,983][train.py][line:104][INFO] condition number:1052.642
+[2022-12-01 21:43:41,002][train.py][line:117][INFO] Epoch:38 	 loss=0.17915	
+[2022-12-01 21:43:41,071][train.py][line:102][INFO] mean of correlation:0.152
+[2022-12-01 21:43:41,072][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:43:41,072][train.py][line:104][INFO] condition number:940.658
+[2022-12-01 21:43:41,093][train.py][line:117][INFO] Epoch:38 	 loss=0.19037	
+[2022-12-01 21:43:41,277][train.py][line:102][INFO] mean of correlation:0.146
+[2022-12-01 21:43:41,278][train.py][line:103][INFO] minimal eigenvalue:0.021
+[2022-12-01 21:43:41,278][train.py][line:104][INFO] condition number:973.080
+[2022-12-01 21:43:41,300][train.py][line:117][INFO] Epoch:38 	 loss=0.18019	
+[2022-12-01 21:43:41,375][train.py][line:102][INFO] mean of correlation:0.145
+[2022-12-01 21:43:41,376][train.py][line:103][INFO] minimal eigenvalue:0.021
+[2022-12-01 21:43:41,376][train.py][line:104][INFO] condition number:954.608
+[2022-12-01 21:43:41,397][train.py][line:117][INFO] Epoch:39 	 loss=0.18932	
+[2022-12-01 21:43:41,466][train.py][line:102][INFO] mean of correlation:0.151
+[2022-12-01 21:43:41,467][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:43:41,467][train.py][line:104][INFO] condition number:940.362
+[2022-12-01 21:43:41,488][train.py][line:117][INFO] Epoch:39 	 loss=0.18926	
+[2022-12-01 21:43:41,561][train.py][line:102][INFO] mean of correlation:0.146
+[2022-12-01 21:43:41,562][train.py][line:103][INFO] minimal eigenvalue:0.021
+[2022-12-01 21:43:41,563][train.py][line:104][INFO] condition number:959.868
+[2022-12-01 21:43:41,583][train.py][line:117][INFO] Epoch:39 	 loss=0.18063	
+[2022-12-01 21:43:41,767][train.py][line:102][INFO] mean of correlation:0.148
+[2022-12-01 21:43:41,768][train.py][line:103][INFO] minimal eigenvalue:0.020
+[2022-12-01 21:43:41,768][train.py][line:104][INFO] condition number:1009.352
+[2022-12-01 21:43:41,789][train.py][line:117][INFO] Epoch:39 	 loss=0.19922	
+[2022-12-01 21:43:41,858][train.py][line:102][INFO] mean of correlation:0.154
+[2022-12-01 21:43:41,859][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:43:41,860][train.py][line:104][INFO] condition number:951.749
+[2022-12-01 21:43:41,881][train.py][line:117][INFO] Epoch:40 	 loss=0.18599	
+[2022-12-01 21:43:41,951][train.py][line:102][INFO] mean of correlation:0.145
+[2022-12-01 21:43:41,951][train.py][line:103][INFO] minimal eigenvalue:0.021
+[2022-12-01 21:43:41,952][train.py][line:104][INFO] condition number:970.450
+[2022-12-01 21:43:41,973][train.py][line:117][INFO] Epoch:40 	 loss=0.19645	
+[2022-12-01 21:43:42,045][train.py][line:102][INFO] mean of correlation:0.147
+[2022-12-01 21:43:42,045][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:43:42,046][train.py][line:104][INFO] condition number:945.129
+[2022-12-01 21:43:42,067][train.py][line:117][INFO] Epoch:40 	 loss=0.18761	
+[2022-12-01 21:43:42,255][train.py][line:102][INFO] mean of correlation:0.145
+[2022-12-01 21:43:42,255][train.py][line:103][INFO] minimal eigenvalue:0.020
+[2022-12-01 21:43:42,256][train.py][line:104][INFO] condition number:967.191
+[2022-12-01 21:43:42,277][train.py][line:117][INFO] Epoch:40 	 loss=0.17974	
+[2022-12-01 21:43:42,347][train.py][line:102][INFO] mean of correlation:0.149
+[2022-12-01 21:43:42,348][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:43:42,349][train.py][line:104][INFO] condition number:935.010
+[2022-12-01 21:43:42,370][train.py][line:117][INFO] Epoch:41 	 loss=0.19876	
+[2022-12-01 21:43:42,441][train.py][line:102][INFO] mean of correlation:0.144
+[2022-12-01 21:43:42,442][train.py][line:103][INFO] minimal eigenvalue:0.020
+[2022-12-01 21:43:42,443][train.py][line:104][INFO] condition number:976.440
+[2022-12-01 21:43:42,463][train.py][line:117][INFO] Epoch:41 	 loss=0.21773	
+[2022-12-01 21:43:42,539][train.py][line:102][INFO] mean of correlation:0.150
+[2022-12-01 21:43:42,540][train.py][line:103][INFO] minimal eigenvalue:0.021
+[2022-12-01 21:43:42,540][train.py][line:104][INFO] condition number:964.021
+[2022-12-01 21:43:42,560][train.py][line:117][INFO] Epoch:41 	 loss=0.19555	
+[2022-12-01 21:43:42,740][train.py][line:102][INFO] mean of correlation:0.145
+[2022-12-01 21:43:42,741][train.py][line:103][INFO] minimal eigenvalue:0.020
+[2022-12-01 21:43:42,741][train.py][line:104][INFO] condition number:985.213
+[2022-12-01 21:43:42,761][train.py][line:117][INFO] Epoch:41 	 loss=0.19460	
+[2022-12-01 21:43:42,832][train.py][line:102][INFO] mean of correlation:0.150
+[2022-12-01 21:43:42,833][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:43:42,834][train.py][line:104][INFO] condition number:935.659
+[2022-12-01 21:43:42,855][train.py][line:117][INFO] Epoch:42 	 loss=0.20182	
+[2022-12-01 21:43:42,927][train.py][line:102][INFO] mean of correlation:0.147
+[2022-12-01 21:43:42,928][train.py][line:103][INFO] minimal eigenvalue:0.021
+[2022-12-01 21:43:42,929][train.py][line:104][INFO] condition number:984.391
+[2022-12-01 21:43:42,949][train.py][line:117][INFO] Epoch:42 	 loss=0.18062	
+[2022-12-01 21:43:43,017][train.py][line:102][INFO] mean of correlation:0.146
+[2022-12-01 21:43:43,018][train.py][line:103][INFO] minimal eigenvalue:0.021
+[2022-12-01 21:43:43,019][train.py][line:104][INFO] condition number:945.100
+[2022-12-01 21:43:43,039][train.py][line:117][INFO] Epoch:42 	 loss=0.18592	
+[2022-12-01 21:43:43,224][train.py][line:102][INFO] mean of correlation:0.146
+[2022-12-01 21:43:43,225][train.py][line:103][INFO] minimal eigenvalue:0.021
+[2022-12-01 21:43:43,225][train.py][line:104][INFO] condition number:940.150
+[2022-12-01 21:43:43,246][train.py][line:117][INFO] Epoch:42 	 loss=0.17840	
+[2022-12-01 21:43:43,319][train.py][line:102][INFO] mean of correlation:0.145
+[2022-12-01 21:43:43,319][train.py][line:103][INFO] minimal eigenvalue:0.027
+[2022-12-01 21:43:43,320][train.py][line:104][INFO] condition number:737.829
+[2022-12-01 21:43:43,340][train.py][line:117][INFO] Epoch:43 	 loss=0.19319	
+[2022-12-01 21:43:43,413][train.py][line:102][INFO] mean of correlation:0.149
+[2022-12-01 21:43:43,414][train.py][line:103][INFO] minimal eigenvalue:0.021
+[2022-12-01 21:43:43,414][train.py][line:104][INFO] condition number:992.149
+[2022-12-01 21:43:43,434][train.py][line:117][INFO] Epoch:43 	 loss=0.19390	
+[2022-12-01 21:43:43,510][train.py][line:102][INFO] mean of correlation:0.151
+[2022-12-01 21:43:43,511][train.py][line:103][INFO] minimal eigenvalue:0.018
+[2022-12-01 21:43:43,512][train.py][line:104][INFO] condition number:1170.623
+[2022-12-01 21:43:43,532][train.py][line:117][INFO] Epoch:43 	 loss=0.19358	
+[2022-12-01 21:43:43,715][train.py][line:102][INFO] mean of correlation:0.145
+[2022-12-01 21:43:43,716][train.py][line:103][INFO] minimal eigenvalue:0.020
+[2022-12-01 21:43:43,717][train.py][line:104][INFO] condition number:969.146
+[2022-12-01 21:43:43,737][train.py][line:117][INFO] Epoch:43 	 loss=0.18856	
+[2022-12-01 21:43:43,807][train.py][line:102][INFO] mean of correlation:0.150
+[2022-12-01 21:43:43,808][train.py][line:103][INFO] minimal eigenvalue:0.021
+[2022-12-01 21:43:43,809][train.py][line:104][INFO] condition number:978.516
+[2022-12-01 21:43:43,829][train.py][line:117][INFO] Epoch:44 	 loss=0.18281	
+[2022-12-01 21:43:43,899][train.py][line:102][INFO] mean of correlation:0.150
+[2022-12-01 21:43:43,900][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:43:43,900][train.py][line:104][INFO] condition number:882.550
+[2022-12-01 21:43:43,920][train.py][line:117][INFO] Epoch:44 	 loss=0.17464	
+[2022-12-01 21:43:43,990][train.py][line:102][INFO] mean of correlation:0.142
+[2022-12-01 21:43:43,991][train.py][line:103][INFO] minimal eigenvalue:0.020
+[2022-12-01 21:43:43,992][train.py][line:104][INFO] condition number:973.678
+[2022-12-01 21:43:44,013][train.py][line:117][INFO] Epoch:44 	 loss=0.17189	
+[2022-12-01 21:43:44,193][train.py][line:102][INFO] mean of correlation:0.149
+[2022-12-01 21:43:44,193][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:43:44,194][train.py][line:104][INFO] condition number:952.411
+[2022-12-01 21:43:44,215][train.py][line:117][INFO] Epoch:44 	 loss=0.19652	
+[2022-12-01 21:43:44,294][train.py][line:102][INFO] mean of correlation:0.146
+[2022-12-01 21:43:44,294][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:43:44,295][train.py][line:104][INFO] condition number:852.933
+[2022-12-01 21:43:44,315][train.py][line:117][INFO] Epoch:45 	 loss=0.19117	
+[2022-12-01 21:43:44,386][train.py][line:102][INFO] mean of correlation:0.143
+[2022-12-01 21:43:44,386][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:43:44,387][train.py][line:104][INFO] condition number:883.957
+[2022-12-01 21:43:44,408][train.py][line:117][INFO] Epoch:45 	 loss=0.18576	
+[2022-12-01 21:43:44,477][train.py][line:102][INFO] mean of correlation:0.152
+[2022-12-01 21:43:44,477][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:43:44,478][train.py][line:104][INFO] condition number:913.727
+[2022-12-01 21:43:44,499][train.py][line:117][INFO] Epoch:45 	 loss=0.19153	
+[2022-12-01 21:43:44,681][train.py][line:102][INFO] mean of correlation:0.151
+[2022-12-01 21:43:44,682][train.py][line:103][INFO] minimal eigenvalue:0.019
+[2022-12-01 21:43:44,682][train.py][line:104][INFO] condition number:1071.769
+[2022-12-01 21:43:44,704][train.py][line:117][INFO] Epoch:45 	 loss=0.17993	
+[2022-12-01 21:43:44,779][train.py][line:102][INFO] mean of correlation:0.150
+[2022-12-01 21:43:44,780][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:43:44,780][train.py][line:104][INFO] condition number:830.751
+[2022-12-01 21:43:44,801][train.py][line:117][INFO] Epoch:46 	 loss=0.16913	
+[2022-12-01 21:43:44,873][train.py][line:102][INFO] mean of correlation:0.149
+[2022-12-01 21:43:44,873][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:43:44,874][train.py][line:104][INFO] condition number:860.046
+[2022-12-01 21:43:44,893][train.py][line:117][INFO] Epoch:46 	 loss=0.18275	
+[2022-12-01 21:43:44,968][train.py][line:102][INFO] mean of correlation:0.148
+[2022-12-01 21:43:44,969][train.py][line:103][INFO] minimal eigenvalue:0.019
+[2022-12-01 21:43:44,969][train.py][line:104][INFO] condition number:1089.889
+[2022-12-01 21:43:44,990][train.py][line:117][INFO] Epoch:46 	 loss=0.18797	
+[2022-12-01 21:43:45,172][train.py][line:102][INFO] mean of correlation:0.147
+[2022-12-01 21:43:45,173][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:43:45,173][train.py][line:104][INFO] condition number:917.069
+[2022-12-01 21:43:45,194][train.py][line:117][INFO] Epoch:46 	 loss=0.17993	
+[2022-12-01 21:43:45,269][train.py][line:102][INFO] mean of correlation:0.153
+[2022-12-01 21:43:45,270][train.py][line:103][INFO] minimal eigenvalue:0.020
+[2022-12-01 21:43:45,271][train.py][line:104][INFO] condition number:1014.933
+[2022-12-01 21:43:45,292][train.py][line:117][INFO] Epoch:47 	 loss=0.20095	
+[2022-12-01 21:43:45,366][train.py][line:102][INFO] mean of correlation:0.146
+[2022-12-01 21:43:45,367][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:43:45,367][train.py][line:104][INFO] condition number:818.747
+[2022-12-01 21:43:45,388][train.py][line:117][INFO] Epoch:47 	 loss=0.17740	
+[2022-12-01 21:43:45,468][train.py][line:102][INFO] mean of correlation:0.145
+[2022-12-01 21:43:45,468][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:43:45,469][train.py][line:104][INFO] condition number:891.115
+[2022-12-01 21:43:45,489][train.py][line:117][INFO] Epoch:47 	 loss=0.19262	
+[2022-12-01 21:43:45,671][train.py][line:102][INFO] mean of correlation:0.151
+[2022-12-01 21:43:45,671][train.py][line:103][INFO] minimal eigenvalue:0.021
+[2022-12-01 21:43:45,672][train.py][line:104][INFO] condition number:970.385
+[2022-12-01 21:43:45,694][train.py][line:117][INFO] Epoch:47 	 loss=0.17991	
+[2022-12-01 21:43:45,765][train.py][line:102][INFO] mean of correlation:0.150
+[2022-12-01 21:43:45,765][train.py][line:103][INFO] minimal eigenvalue:0.020
+[2022-12-01 21:43:45,766][train.py][line:104][INFO] condition number:1027.886
+[2022-12-01 21:43:45,786][train.py][line:117][INFO] Epoch:48 	 loss=0.17492	
+[2022-12-01 21:43:45,853][train.py][line:102][INFO] mean of correlation:0.150
+[2022-12-01 21:43:45,854][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:43:45,855][train.py][line:104][INFO] condition number:834.843
+[2022-12-01 21:43:45,876][train.py][line:117][INFO] Epoch:48 	 loss=0.19396	
+[2022-12-01 21:43:45,946][train.py][line:102][INFO] mean of correlation:0.148
+[2022-12-01 21:43:45,946][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:43:45,947][train.py][line:104][INFO] condition number:843.337
+[2022-12-01 21:43:45,967][train.py][line:117][INFO] Epoch:48 	 loss=0.17868	
+[2022-12-01 21:43:46,147][train.py][line:102][INFO] mean of correlation:0.148
+[2022-12-01 21:43:46,148][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:43:46,149][train.py][line:104][INFO] condition number:936.179
+[2022-12-01 21:43:46,173][train.py][line:117][INFO] Epoch:48 	 loss=0.18794	
+[2022-12-01 21:43:46,246][train.py][line:102][INFO] mean of correlation:0.155
+[2022-12-01 21:43:46,246][train.py][line:103][INFO] minimal eigenvalue:0.020
+[2022-12-01 21:43:46,247][train.py][line:104][INFO] condition number:1036.597
+[2022-12-01 21:43:46,267][train.py][line:117][INFO] Epoch:49 	 loss=0.19653	
+[2022-12-01 21:43:46,353][train.py][line:102][INFO] mean of correlation:0.147
+[2022-12-01 21:43:46,354][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:43:46,355][train.py][line:104][INFO] condition number:896.002
+[2022-12-01 21:43:46,376][train.py][line:117][INFO] Epoch:49 	 loss=0.19777	
+[2022-12-01 21:43:46,451][train.py][line:102][INFO] mean of correlation:0.150
+[2022-12-01 21:43:46,451][train.py][line:103][INFO] minimal eigenvalue:0.026
+[2022-12-01 21:43:46,452][train.py][line:104][INFO] condition number:803.028
+[2022-12-01 21:43:46,472][train.py][line:117][INFO] Epoch:49 	 loss=0.19009	
+[2022-12-01 21:43:46,654][train.py][line:102][INFO] mean of correlation:0.145
+[2022-12-01 21:43:46,655][train.py][line:103][INFO] minimal eigenvalue:0.021
+[2022-12-01 21:43:46,656][train.py][line:104][INFO] condition number:932.552
+[2022-12-01 21:43:46,676][train.py][line:117][INFO] Epoch:49 	 loss=0.17919	
+[2022-12-01 21:43:46,747][train.py][line:102][INFO] mean of correlation:0.147
+[2022-12-01 21:43:46,748][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:43:46,749][train.py][line:104][INFO] condition number:934.319
+[2022-12-01 21:43:46,770][train.py][line:117][INFO] Epoch:50 	 loss=0.19724	
+[2022-12-01 21:43:46,843][train.py][line:102][INFO] mean of correlation:0.149
+[2022-12-01 21:43:46,844][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:43:46,844][train.py][line:104][INFO] condition number:903.623
+[2022-12-01 21:43:46,865][train.py][line:117][INFO] Epoch:50 	 loss=0.20231	
+[2022-12-01 21:43:46,934][train.py][line:102][INFO] mean of correlation:0.152
+[2022-12-01 21:43:46,935][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:43:46,935][train.py][line:104][INFO] condition number:839.164
+[2022-12-01 21:43:46,956][train.py][line:117][INFO] Epoch:50 	 loss=0.18111	
+[2022-12-01 21:43:47,138][train.py][line:102][INFO] mean of correlation:0.150
+[2022-12-01 21:43:47,139][train.py][line:103][INFO] minimal eigenvalue:0.021
+[2022-12-01 21:43:47,140][train.py][line:104][INFO] condition number:979.331
+[2022-12-01 21:43:47,161][train.py][line:117][INFO] Epoch:50 	 loss=0.19272	
+[2022-12-01 21:43:47,230][train.py][line:102][INFO] mean of correlation:0.151
+[2022-12-01 21:43:47,231][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:43:47,232][train.py][line:104][INFO] condition number:858.167
+[2022-12-01 21:43:47,253][train.py][line:117][INFO] Epoch:51 	 loss=0.18033	
+[2022-12-01 21:43:47,330][train.py][line:102][INFO] mean of correlation:0.147
+[2022-12-01 21:43:47,331][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:43:47,331][train.py][line:104][INFO] condition number:933.667
+[2022-12-01 21:43:47,353][train.py][line:117][INFO] Epoch:51 	 loss=0.19130	
+[2022-12-01 21:43:47,427][train.py][line:102][INFO] mean of correlation:0.153
+[2022-12-01 21:43:47,428][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:43:47,428][train.py][line:104][INFO] condition number:968.516
+[2022-12-01 21:43:47,448][train.py][line:117][INFO] Epoch:51 	 loss=0.18569	
+[2022-12-01 21:43:47,629][train.py][line:102][INFO] mean of correlation:0.148
+[2022-12-01 21:43:47,630][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:43:47,631][train.py][line:104][INFO] condition number:929.680
+[2022-12-01 21:43:47,652][train.py][line:117][INFO] Epoch:51 	 loss=0.19006	
+[2022-12-01 21:43:47,725][train.py][line:102][INFO] mean of correlation:0.148
+[2022-12-01 21:43:47,726][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:43:47,727][train.py][line:104][INFO] condition number:935.121
+[2022-12-01 21:43:47,748][train.py][line:117][INFO] Epoch:52 	 loss=0.18734	
+[2022-12-01 21:43:47,825][train.py][line:102][INFO] mean of correlation:0.149
+[2022-12-01 21:43:47,825][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:43:47,826][train.py][line:104][INFO] condition number:895.024
+[2022-12-01 21:43:47,847][train.py][line:117][INFO] Epoch:52 	 loss=0.17688	
+[2022-12-01 21:43:47,921][train.py][line:102][INFO] mean of correlation:0.152
+[2022-12-01 21:43:47,921][train.py][line:103][INFO] minimal eigenvalue:0.021
+[2022-12-01 21:43:47,922][train.py][line:104][INFO] condition number:1011.599
+[2022-12-01 21:43:47,943][train.py][line:117][INFO] Epoch:52 	 loss=0.18490	
+[2022-12-01 21:43:48,128][train.py][line:102][INFO] mean of correlation:0.149
+[2022-12-01 21:43:48,128][train.py][line:103][INFO] minimal eigenvalue:0.026
+[2022-12-01 21:43:48,129][train.py][line:104][INFO] condition number:780.877
+[2022-12-01 21:43:48,149][train.py][line:117][INFO] Epoch:52 	 loss=0.18372	
+[2022-12-01 21:43:48,220][train.py][line:102][INFO] mean of correlation:0.155
+[2022-12-01 21:43:48,220][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:43:48,221][train.py][line:104][INFO] condition number:961.274
+[2022-12-01 21:43:48,242][train.py][line:117][INFO] Epoch:53 	 loss=0.17117	
+[2022-12-01 21:43:48,320][train.py][line:102][INFO] mean of correlation:0.151
+[2022-12-01 21:43:48,321][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:43:48,321][train.py][line:104][INFO] condition number:855.977
+[2022-12-01 21:43:48,342][train.py][line:117][INFO] Epoch:53 	 loss=0.18203	
+[2022-12-01 21:43:48,415][train.py][line:102][INFO] mean of correlation:0.149
+[2022-12-01 21:43:48,416][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:43:48,416][train.py][line:104][INFO] condition number:871.041
+[2022-12-01 21:43:48,437][train.py][line:117][INFO] Epoch:53 	 loss=0.19126	
+[2022-12-01 21:43:48,620][train.py][line:102][INFO] mean of correlation:0.145
+[2022-12-01 21:43:48,621][train.py][line:103][INFO] minimal eigenvalue:0.021
+[2022-12-01 21:43:48,622][train.py][line:104][INFO] condition number:956.046
+[2022-12-01 21:43:48,643][train.py][line:117][INFO] Epoch:53 	 loss=0.17277	
+[2022-12-01 21:43:48,716][train.py][line:102][INFO] mean of correlation:0.150
+[2022-12-01 21:43:48,717][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:43:48,718][train.py][line:104][INFO] condition number:886.971
+[2022-12-01 21:43:48,738][train.py][line:117][INFO] Epoch:54 	 loss=0.18432	
+[2022-12-01 21:43:48,806][train.py][line:102][INFO] mean of correlation:0.146
+[2022-12-01 21:43:48,807][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:43:48,808][train.py][line:104][INFO] condition number:861.050
+[2022-12-01 21:43:48,830][train.py][line:117][INFO] Epoch:54 	 loss=0.17613	
+[2022-12-01 21:43:48,903][train.py][line:102][INFO] mean of correlation:0.153
+[2022-12-01 21:43:48,903][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:43:48,904][train.py][line:104][INFO] condition number:923.582
+[2022-12-01 21:43:48,923][train.py][line:117][INFO] Epoch:54 	 loss=0.20111	
+[2022-12-01 21:43:49,110][train.py][line:102][INFO] mean of correlation:0.151
+[2022-12-01 21:43:49,110][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:43:49,111][train.py][line:104][INFO] condition number:892.145
+[2022-12-01 21:43:49,132][train.py][line:117][INFO] Epoch:54 	 loss=0.18222	
+[2022-12-01 21:43:49,208][train.py][line:102][INFO] mean of correlation:0.151
+[2022-12-01 21:43:49,208][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:43:49,209][train.py][line:104][INFO] condition number:857.822
+[2022-12-01 21:43:49,231][train.py][line:117][INFO] Epoch:55 	 loss=0.16819	
+[2022-12-01 21:43:49,305][train.py][line:102][INFO] mean of correlation:0.149
+[2022-12-01 21:43:49,305][train.py][line:103][INFO] minimal eigenvalue:0.020
+[2022-12-01 21:43:49,306][train.py][line:104][INFO] condition number:998.034
+[2022-12-01 21:43:49,327][train.py][line:117][INFO] Epoch:55 	 loss=0.19215	
+[2022-12-01 21:43:49,402][train.py][line:102][INFO] mean of correlation:0.150
+[2022-12-01 21:43:49,403][train.py][line:103][INFO] minimal eigenvalue:0.025
+[2022-12-01 21:43:49,403][train.py][line:104][INFO] condition number:817.101
+[2022-12-01 21:43:49,424][train.py][line:117][INFO] Epoch:55 	 loss=0.18679	
+[2022-12-01 21:43:49,608][train.py][line:102][INFO] mean of correlation:0.151
+[2022-12-01 21:43:49,608][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:43:49,609][train.py][line:104][INFO] condition number:890.657
+[2022-12-01 21:43:49,630][train.py][line:117][INFO] Epoch:55 	 loss=0.17288	
+[2022-12-01 21:43:49,701][train.py][line:102][INFO] mean of correlation:0.152
+[2022-12-01 21:43:49,702][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:43:49,702][train.py][line:104][INFO] condition number:886.501
+[2022-12-01 21:43:49,723][train.py][line:117][INFO] Epoch:56 	 loss=0.16572	
+[2022-12-01 21:43:49,794][train.py][line:102][INFO] mean of correlation:0.149
+[2022-12-01 21:43:49,795][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:43:49,795][train.py][line:104][INFO] condition number:842.560
+[2022-12-01 21:43:49,815][train.py][line:117][INFO] Epoch:56 	 loss=0.19917	
+[2022-12-01 21:43:49,883][train.py][line:102][INFO] mean of correlation:0.151
+[2022-12-01 21:43:49,884][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:43:49,884][train.py][line:104][INFO] condition number:926.652
+[2022-12-01 21:43:49,905][train.py][line:117][INFO] Epoch:56 	 loss=0.17516	
+[2022-12-01 21:43:50,091][train.py][line:102][INFO] mean of correlation:0.149
+[2022-12-01 21:43:50,092][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:43:50,093][train.py][line:104][INFO] condition number:926.239
+[2022-12-01 21:43:50,114][train.py][line:117][INFO] Epoch:56 	 loss=0.18615	
+[2022-12-01 21:43:50,185][train.py][line:102][INFO] mean of correlation:0.151
+[2022-12-01 21:43:50,186][train.py][line:103][INFO] minimal eigenvalue:0.021
+[2022-12-01 21:43:50,187][train.py][line:104][INFO] condition number:1012.717
+[2022-12-01 21:43:50,208][train.py][line:117][INFO] Epoch:57 	 loss=0.17950	
+[2022-12-01 21:43:50,283][train.py][line:102][INFO] mean of correlation:0.150
+[2022-12-01 21:43:50,284][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:43:50,285][train.py][line:104][INFO] condition number:919.595
+[2022-12-01 21:43:50,306][train.py][line:117][INFO] Epoch:57 	 loss=0.19884	
+[2022-12-01 21:43:50,382][train.py][line:102][INFO] mean of correlation:0.152
+[2022-12-01 21:43:50,383][train.py][line:103][INFO] minimal eigenvalue:0.026
+[2022-12-01 21:43:50,384][train.py][line:104][INFO] condition number:808.015
+[2022-12-01 21:43:50,405][train.py][line:117][INFO] Epoch:57 	 loss=0.17296	
+[2022-12-01 21:43:50,590][train.py][line:102][INFO] mean of correlation:0.149
+[2022-12-01 21:43:50,591][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:43:50,591][train.py][line:104][INFO] condition number:880.067
+[2022-12-01 21:43:50,612][train.py][line:117][INFO] Epoch:57 	 loss=0.18480	
+[2022-12-01 21:43:50,685][train.py][line:102][INFO] mean of correlation:0.151
+[2022-12-01 21:43:50,686][train.py][line:103][INFO] minimal eigenvalue:0.025
+[2022-12-01 21:43:50,686][train.py][line:104][INFO] condition number:821.043
+[2022-12-01 21:43:50,707][train.py][line:117][INFO] Epoch:58 	 loss=0.18167	
+[2022-12-01 21:43:50,782][train.py][line:102][INFO] mean of correlation:0.151
+[2022-12-01 21:43:50,782][train.py][line:103][INFO] minimal eigenvalue:0.025
+[2022-12-01 21:43:50,783][train.py][line:104][INFO] condition number:828.081
+[2022-12-01 21:43:50,804][train.py][line:117][INFO] Epoch:58 	 loss=0.16254	
+[2022-12-01 21:43:50,873][train.py][line:102][INFO] mean of correlation:0.152
+[2022-12-01 21:43:50,874][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:43:50,874][train.py][line:104][INFO] condition number:977.028
+[2022-12-01 21:43:50,895][train.py][line:117][INFO] Epoch:58 	 loss=0.18618	
+[2022-12-01 21:43:51,082][train.py][line:102][INFO] mean of correlation:0.148
+[2022-12-01 21:43:51,082][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:43:51,083][train.py][line:104][INFO] condition number:883.982
+[2022-12-01 21:43:51,103][train.py][line:117][INFO] Epoch:58 	 loss=0.17420	
+[2022-12-01 21:43:51,176][train.py][line:102][INFO] mean of correlation:0.152
+[2022-12-01 21:43:51,176][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:43:51,177][train.py][line:104][INFO] condition number:934.675
+[2022-12-01 21:43:51,198][train.py][line:117][INFO] Epoch:59 	 loss=0.18670	
+[2022-12-01 21:43:51,266][train.py][line:102][INFO] mean of correlation:0.152
+[2022-12-01 21:43:51,267][train.py][line:103][INFO] minimal eigenvalue:0.026
+[2022-12-01 21:43:51,267][train.py][line:104][INFO] condition number:813.276
+[2022-12-01 21:43:51,289][train.py][line:117][INFO] Epoch:59 	 loss=0.19981	
+[2022-12-01 21:43:51,359][train.py][line:102][INFO] mean of correlation:0.144
+[2022-12-01 21:43:51,359][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:43:51,360][train.py][line:104][INFO] condition number:826.968
+[2022-12-01 21:43:51,381][train.py][line:117][INFO] Epoch:59 	 loss=0.19310	
+[2022-12-01 21:43:51,564][train.py][line:102][INFO] mean of correlation:0.155
+[2022-12-01 21:43:51,565][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:43:51,566][train.py][line:104][INFO] condition number:987.631
+[2022-12-01 21:43:51,587][train.py][line:117][INFO] Epoch:59 	 loss=0.18087	
+[2022-12-01 21:43:51,662][train.py][line:102][INFO] mean of correlation:0.149
+[2022-12-01 21:43:51,663][train.py][line:103][INFO] minimal eigenvalue:0.020
+[2022-12-01 21:43:51,664][train.py][line:104][INFO] condition number:1032.509
+[2022-12-01 21:43:51,684][train.py][line:117][INFO] Epoch:60 	 loss=0.17902	
+[2022-12-01 21:43:51,757][train.py][line:102][INFO] mean of correlation:0.151
+[2022-12-01 21:43:51,758][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:43:51,759][train.py][line:104][INFO] condition number:864.501
+[2022-12-01 21:43:51,779][train.py][line:117][INFO] Epoch:60 	 loss=0.17657	
+[2022-12-01 21:43:51,849][train.py][line:102][INFO] mean of correlation:0.152
+[2022-12-01 21:43:51,850][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:43:51,851][train.py][line:104][INFO] condition number:914.809
+[2022-12-01 21:43:51,871][train.py][line:117][INFO] Epoch:60 	 loss=0.17287	
+[2022-12-01 21:43:52,059][train.py][line:102][INFO] mean of correlation:0.149
+[2022-12-01 21:43:52,060][train.py][line:103][INFO] minimal eigenvalue:0.025
+[2022-12-01 21:43:52,061][train.py][line:104][INFO] condition number:812.347
+[2022-12-01 21:43:52,082][train.py][line:117][INFO] Epoch:60 	 loss=0.19700	
+[2022-12-01 21:43:52,158][train.py][line:102][INFO] mean of correlation:0.147
+[2022-12-01 21:43:52,159][train.py][line:103][INFO] minimal eigenvalue:0.026
+[2022-12-01 21:43:52,160][train.py][line:104][INFO] condition number:796.883
+[2022-12-01 21:43:52,180][train.py][line:117][INFO] Epoch:61 	 loss=0.18583	
+[2022-12-01 21:43:52,251][train.py][line:102][INFO] mean of correlation:0.150
+[2022-12-01 21:43:52,251][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:43:52,252][train.py][line:104][INFO] condition number:913.413
+[2022-12-01 21:43:52,273][train.py][line:117][INFO] Epoch:61 	 loss=0.18682	
+[2022-12-01 21:43:52,343][train.py][line:102][INFO] mean of correlation:0.154
+[2022-12-01 21:43:52,343][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:43:52,344][train.py][line:104][INFO] condition number:928.016
+[2022-12-01 21:43:52,365][train.py][line:117][INFO] Epoch:61 	 loss=0.18941	
+[2022-12-01 21:43:52,549][train.py][line:102][INFO] mean of correlation:0.151
+[2022-12-01 21:43:52,549][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:43:52,550][train.py][line:104][INFO] condition number:864.095
+[2022-12-01 21:43:52,570][train.py][line:117][INFO] Epoch:61 	 loss=0.19604	
+[2022-12-01 21:43:52,645][train.py][line:102][INFO] mean of correlation:0.151
+[2022-12-01 21:43:52,645][train.py][line:103][INFO] minimal eigenvalue:0.021
+[2022-12-01 21:43:52,646][train.py][line:104][INFO] condition number:981.565
+[2022-12-01 21:43:52,667][train.py][line:117][INFO] Epoch:62 	 loss=0.18049	
+[2022-12-01 21:43:52,741][train.py][line:102][INFO] mean of correlation:0.149
+[2022-12-01 21:43:52,742][train.py][line:103][INFO] minimal eigenvalue:0.025
+[2022-12-01 21:43:52,742][train.py][line:104][INFO] condition number:811.959
+[2022-12-01 21:43:52,763][train.py][line:117][INFO] Epoch:62 	 loss=0.18623	
+[2022-12-01 21:43:52,831][train.py][line:102][INFO] mean of correlation:0.150
+[2022-12-01 21:43:52,832][train.py][line:103][INFO] minimal eigenvalue:0.026
+[2022-12-01 21:43:52,832][train.py][line:104][INFO] condition number:787.680
+[2022-12-01 21:43:52,853][train.py][line:117][INFO] Epoch:62 	 loss=0.18210	
+[2022-12-01 21:43:53,038][train.py][line:102][INFO] mean of correlation:0.152
+[2022-12-01 21:43:53,038][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:43:53,039][train.py][line:104][INFO] condition number:910.653
+[2022-12-01 21:43:53,060][train.py][line:117][INFO] Epoch:62 	 loss=0.19514	
+[2022-12-01 21:43:53,130][train.py][line:102][INFO] mean of correlation:0.156
+[2022-12-01 21:43:53,131][train.py][line:103][INFO] minimal eigenvalue:0.025
+[2022-12-01 21:43:53,131][train.py][line:104][INFO] condition number:862.334
+[2022-12-01 21:43:53,151][train.py][line:117][INFO] Epoch:63 	 loss=0.19378	
+[2022-12-01 21:43:53,220][train.py][line:102][INFO] mean of correlation:0.145
+[2022-12-01 21:43:53,221][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:43:53,221][train.py][line:104][INFO] condition number:877.291
+[2022-12-01 21:43:53,242][train.py][line:117][INFO] Epoch:63 	 loss=0.18903	
+[2022-12-01 21:43:53,310][train.py][line:102][INFO] mean of correlation:0.146
+[2022-12-01 21:43:53,311][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:43:53,311][train.py][line:104][INFO] condition number:850.194
+[2022-12-01 21:43:53,332][train.py][line:117][INFO] Epoch:63 	 loss=0.18530	
+[2022-12-01 21:43:53,515][train.py][line:102][INFO] mean of correlation:0.153
+[2022-12-01 21:43:53,516][train.py][line:103][INFO] minimal eigenvalue:0.021
+[2022-12-01 21:43:53,516][train.py][line:104][INFO] condition number:1017.583
+[2022-12-01 21:43:53,537][train.py][line:117][INFO] Epoch:63 	 loss=0.16724	
+[2022-12-01 21:43:53,607][train.py][line:102][INFO] mean of correlation:0.147
+[2022-12-01 21:43:53,608][train.py][line:103][INFO] minimal eigenvalue:0.025
+[2022-12-01 21:43:53,608][train.py][line:104][INFO] condition number:809.308
+[2022-12-01 21:43:53,629][train.py][line:117][INFO] Epoch:64 	 loss=0.18750	
+[2022-12-01 21:43:53,706][train.py][line:102][INFO] mean of correlation:0.152
+[2022-12-01 21:43:53,707][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:43:53,707][train.py][line:104][INFO] condition number:931.961
+[2022-12-01 21:43:53,728][train.py][line:117][INFO] Epoch:64 	 loss=0.19185	
+[2022-12-01 21:43:53,797][train.py][line:102][INFO] mean of correlation:0.151
+[2022-12-01 21:43:53,798][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:43:53,798][train.py][line:104][INFO] condition number:879.290
+[2022-12-01 21:43:53,820][train.py][line:117][INFO] Epoch:64 	 loss=0.19182	
+[2022-12-01 21:43:53,999][train.py][line:102][INFO] mean of correlation:0.154
+[2022-12-01 21:43:54,000][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:43:54,001][train.py][line:104][INFO] condition number:913.817
+[2022-12-01 21:43:54,022][train.py][line:117][INFO] Epoch:64 	 loss=0.18440	
+[2022-12-01 21:43:54,091][train.py][line:102][INFO] mean of correlation:0.149
+[2022-12-01 21:43:54,092][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:43:54,093][train.py][line:104][INFO] condition number:930.195
+[2022-12-01 21:43:54,113][train.py][line:117][INFO] Epoch:65 	 loss=0.16674	
+[2022-12-01 21:43:54,185][train.py][line:102][INFO] mean of correlation:0.152
+[2022-12-01 21:43:54,185][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:43:54,186][train.py][line:104][INFO] condition number:920.487
+[2022-12-01 21:43:54,207][train.py][line:117][INFO] Epoch:65 	 loss=0.18348	
+[2022-12-01 21:43:54,275][train.py][line:102][INFO] mean of correlation:0.150
+[2022-12-01 21:43:54,276][train.py][line:103][INFO] minimal eigenvalue:0.025
+[2022-12-01 21:43:54,277][train.py][line:104][INFO] condition number:812.447
+[2022-12-01 21:43:54,297][train.py][line:117][INFO] Epoch:65 	 loss=0.16499	
+[2022-12-01 21:43:54,478][train.py][line:102][INFO] mean of correlation:0.154
+[2022-12-01 21:43:54,478][train.py][line:103][INFO] minimal eigenvalue:0.025
+[2022-12-01 21:43:54,479][train.py][line:104][INFO] condition number:821.452
+[2022-12-01 21:43:54,500][train.py][line:117][INFO] Epoch:65 	 loss=0.17509	
+[2022-12-01 21:43:54,570][train.py][line:102][INFO] mean of correlation:0.153
+[2022-12-01 21:43:54,570][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:43:54,571][train.py][line:104][INFO] condition number:885.407
+[2022-12-01 21:43:54,593][train.py][line:117][INFO] Epoch:66 	 loss=0.17945	
+[2022-12-01 21:43:54,668][train.py][line:102][INFO] mean of correlation:0.151
+[2022-12-01 21:43:54,669][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:43:54,669][train.py][line:104][INFO] condition number:923.461
+[2022-12-01 21:43:54,690][train.py][line:117][INFO] Epoch:66 	 loss=0.18959	
+[2022-12-01 21:43:54,765][train.py][line:102][INFO] mean of correlation:0.150
+[2022-12-01 21:43:54,766][train.py][line:103][INFO] minimal eigenvalue:0.025
+[2022-12-01 21:43:54,766][train.py][line:104][INFO] condition number:829.656
+[2022-12-01 21:43:54,787][train.py][line:117][INFO] Epoch:66 	 loss=0.16373	
+[2022-12-01 21:43:54,970][train.py][line:102][INFO] mean of correlation:0.152
+[2022-12-01 21:43:54,970][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:43:54,971][train.py][line:104][INFO] condition number:856.794
+[2022-12-01 21:43:54,992][train.py][line:117][INFO] Epoch:66 	 loss=0.18491	
+[2022-12-01 21:43:55,063][train.py][line:102][INFO] mean of correlation:0.153
+[2022-12-01 21:43:55,064][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:43:55,064][train.py][line:104][INFO] condition number:888.445
+[2022-12-01 21:43:55,085][train.py][line:117][INFO] Epoch:67 	 loss=0.17751	
+[2022-12-01 21:43:55,155][train.py][line:102][INFO] mean of correlation:0.147
+[2022-12-01 21:43:55,156][train.py][line:103][INFO] minimal eigenvalue:0.026
+[2022-12-01 21:43:55,157][train.py][line:104][INFO] condition number:777.477
+[2022-12-01 21:43:55,177][train.py][line:117][INFO] Epoch:67 	 loss=0.18204	
+[2022-12-01 21:43:55,246][train.py][line:102][INFO] mean of correlation:0.152
+[2022-12-01 21:43:55,247][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:43:55,247][train.py][line:104][INFO] condition number:955.480
+[2022-12-01 21:43:55,268][train.py][line:117][INFO] Epoch:67 	 loss=0.17013	
+[2022-12-01 21:43:55,456][train.py][line:102][INFO] mean of correlation:0.153
+[2022-12-01 21:43:55,457][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:43:55,457][train.py][line:104][INFO] condition number:900.931
+[2022-12-01 21:43:55,478][train.py][line:117][INFO] Epoch:67 	 loss=0.18008	
+[2022-12-01 21:43:55,549][train.py][line:102][INFO] mean of correlation:0.150
+[2022-12-01 21:43:55,550][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:43:55,551][train.py][line:104][INFO] condition number:912.991
+[2022-12-01 21:43:55,572][train.py][line:117][INFO] Epoch:68 	 loss=0.18077	
+[2022-12-01 21:43:55,644][train.py][line:102][INFO] mean of correlation:0.154
+[2022-12-01 21:43:55,645][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:43:55,645][train.py][line:104][INFO] condition number:948.709
+[2022-12-01 21:43:55,666][train.py][line:117][INFO] Epoch:68 	 loss=0.17950	
+[2022-12-01 21:43:55,735][train.py][line:102][INFO] mean of correlation:0.148
+[2022-12-01 21:43:55,736][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:43:55,737][train.py][line:104][INFO] condition number:940.775
+[2022-12-01 21:43:55,757][train.py][line:117][INFO] Epoch:68 	 loss=0.18305	
+[2022-12-01 21:43:55,936][train.py][line:102][INFO] mean of correlation:0.153
+[2022-12-01 21:43:55,937][train.py][line:103][INFO] minimal eigenvalue:0.027
+[2022-12-01 21:43:55,937][train.py][line:104][INFO] condition number:762.969
+[2022-12-01 21:43:55,959][train.py][line:117][INFO] Epoch:68 	 loss=0.18689	
+[2022-12-01 21:43:56,033][train.py][line:102][INFO] mean of correlation:0.153
+[2022-12-01 21:43:56,034][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:43:56,035][train.py][line:104][INFO] condition number:948.714
+[2022-12-01 21:43:56,055][train.py][line:117][INFO] Epoch:69 	 loss=0.18742	
+[2022-12-01 21:43:56,124][train.py][line:102][INFO] mean of correlation:0.152
+[2022-12-01 21:43:56,125][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:43:56,125][train.py][line:104][INFO] condition number:909.233
+[2022-12-01 21:43:56,146][train.py][line:117][INFO] Epoch:69 	 loss=0.19022	
+[2022-12-01 21:43:56,221][train.py][line:102][INFO] mean of correlation:0.148
+[2022-12-01 21:43:56,221][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:43:56,222][train.py][line:104][INFO] condition number:882.677
+[2022-12-01 21:43:56,242][train.py][line:117][INFO] Epoch:69 	 loss=0.18532	
+[2022-12-01 21:43:56,426][train.py][line:102][INFO] mean of correlation:0.150
+[2022-12-01 21:43:56,427][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:43:56,428][train.py][line:104][INFO] condition number:909.245
+[2022-12-01 21:43:56,449][train.py][line:117][INFO] Epoch:69 	 loss=0.19034	
+[2022-12-01 21:43:56,520][train.py][line:102][INFO] mean of correlation:0.149
+[2022-12-01 21:43:56,521][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:43:56,521][train.py][line:104][INFO] condition number:862.469
+[2022-12-01 21:43:56,542][train.py][line:117][INFO] Epoch:70 	 loss=0.17325	
+[2022-12-01 21:43:56,614][train.py][line:102][INFO] mean of correlation:0.152
+[2022-12-01 21:43:56,615][train.py][line:103][INFO] minimal eigenvalue:0.020
+[2022-12-01 21:43:56,615][train.py][line:104][INFO] condition number:1038.933
+[2022-12-01 21:43:56,636][train.py][line:117][INFO] Epoch:70 	 loss=0.19008	
+[2022-12-01 21:43:56,714][train.py][line:102][INFO] mean of correlation:0.152
+[2022-12-01 21:43:56,715][train.py][line:103][INFO] minimal eigenvalue:0.025
+[2022-12-01 21:43:56,715][train.py][line:104][INFO] condition number:846.085
+[2022-12-01 21:43:56,736][train.py][line:117][INFO] Epoch:70 	 loss=0.17739	
+[2022-12-01 21:43:56,917][train.py][line:102][INFO] mean of correlation:0.150
+[2022-12-01 21:43:56,918][train.py][line:103][INFO] minimal eigenvalue:0.028
+[2022-12-01 21:43:56,918][train.py][line:104][INFO] condition number:723.830
+[2022-12-01 21:43:56,939][train.py][line:117][INFO] Epoch:70 	 loss=0.16416	
+[2022-12-01 21:43:57,010][train.py][line:102][INFO] mean of correlation:0.146
+[2022-12-01 21:43:57,010][train.py][line:103][INFO] minimal eigenvalue:0.029
+[2022-12-01 21:43:57,011][train.py][line:104][INFO] condition number:688.986
+[2022-12-01 21:43:57,031][train.py][line:117][INFO] Epoch:71 	 loss=0.17679	
+[2022-12-01 21:43:57,103][train.py][line:102][INFO] mean of correlation:0.154
+[2022-12-01 21:43:57,104][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:43:57,104][train.py][line:104][INFO] condition number:869.924
+[2022-12-01 21:43:57,126][train.py][line:117][INFO] Epoch:71 	 loss=0.17666	
+[2022-12-01 21:43:57,199][train.py][line:102][INFO] mean of correlation:0.154
+[2022-12-01 21:43:57,200][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:43:57,201][train.py][line:104][INFO] condition number:934.660
+[2022-12-01 21:43:57,222][train.py][line:117][INFO] Epoch:71 	 loss=0.17566	
+[2022-12-01 21:43:57,401][train.py][line:102][INFO] mean of correlation:0.150
+[2022-12-01 21:43:57,402][train.py][line:103][INFO] minimal eigenvalue:0.021
+[2022-12-01 21:43:57,403][train.py][line:104][INFO] condition number:982.027
+[2022-12-01 21:43:57,424][train.py][line:117][INFO] Epoch:71 	 loss=0.19303	
+[2022-12-01 21:43:57,497][train.py][line:102][INFO] mean of correlation:0.152
+[2022-12-01 21:43:57,498][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:43:57,498][train.py][line:104][INFO] condition number:960.924
+[2022-12-01 21:43:57,519][train.py][line:117][INFO] Epoch:72 	 loss=0.18152	
+[2022-12-01 21:43:57,593][train.py][line:102][INFO] mean of correlation:0.148
+[2022-12-01 21:43:57,594][train.py][line:103][INFO] minimal eigenvalue:0.029
+[2022-12-01 21:43:57,595][train.py][line:104][INFO] condition number:693.078
+[2022-12-01 21:43:57,616][train.py][line:117][INFO] Epoch:72 	 loss=0.17703	
+[2022-12-01 21:43:57,688][train.py][line:102][INFO] mean of correlation:0.152
+[2022-12-01 21:43:57,689][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:43:57,690][train.py][line:104][INFO] condition number:938.811
+[2022-12-01 21:43:57,711][train.py][line:117][INFO] Epoch:72 	 loss=0.18881	
+[2022-12-01 21:43:57,890][train.py][line:102][INFO] mean of correlation:0.155
+[2022-12-01 21:43:57,890][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:43:57,891][train.py][line:104][INFO] condition number:897.983
+[2022-12-01 21:43:57,912][train.py][line:117][INFO] Epoch:72 	 loss=0.17668	
+[2022-12-01 21:43:57,986][train.py][line:102][INFO] mean of correlation:0.154
+[2022-12-01 21:43:57,987][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:43:57,987][train.py][line:104][INFO] condition number:894.140
+[2022-12-01 21:43:58,008][train.py][line:117][INFO] Epoch:73 	 loss=0.17742	
+[2022-12-01 21:43:58,077][train.py][line:102][INFO] mean of correlation:0.154
+[2022-12-01 21:43:58,078][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:43:58,079][train.py][line:104][INFO] condition number:916.303
+[2022-12-01 21:43:58,100][train.py][line:117][INFO] Epoch:73 	 loss=0.16604	
+[2022-12-01 21:43:58,171][train.py][line:102][INFO] mean of correlation:0.150
+[2022-12-01 21:43:58,171][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:43:58,173][train.py][line:104][INFO] condition number:864.950
+[2022-12-01 21:43:58,194][train.py][line:117][INFO] Epoch:73 	 loss=0.17060	
+[2022-12-01 21:43:58,378][train.py][line:102][INFO] mean of correlation:0.150
+[2022-12-01 21:43:58,379][train.py][line:103][INFO] minimal eigenvalue:0.026
+[2022-12-01 21:43:58,380][train.py][line:104][INFO] condition number:800.152
+[2022-12-01 21:43:58,400][train.py][line:117][INFO] Epoch:73 	 loss=0.17910	
+[2022-12-01 21:43:58,471][train.py][line:102][INFO] mean of correlation:0.152
+[2022-12-01 21:43:58,472][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:43:58,473][train.py][line:104][INFO] condition number:885.208
+[2022-12-01 21:43:58,494][train.py][line:117][INFO] Epoch:74 	 loss=0.18438	
+[2022-12-01 21:43:58,568][train.py][line:102][INFO] mean of correlation:0.152
+[2022-12-01 21:43:58,569][train.py][line:103][INFO] minimal eigenvalue:0.025
+[2022-12-01 21:43:58,570][train.py][line:104][INFO] condition number:820.498
+[2022-12-01 21:43:58,590][train.py][line:117][INFO] Epoch:74 	 loss=0.16311	
+[2022-12-01 21:43:58,662][train.py][line:102][INFO] mean of correlation:0.151
+[2022-12-01 21:43:58,663][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:43:58,664][train.py][line:104][INFO] condition number:948.101
+[2022-12-01 21:43:58,685][train.py][line:117][INFO] Epoch:74 	 loss=0.18868	
+[2022-12-01 21:43:58,867][train.py][line:102][INFO] mean of correlation:0.153
+[2022-12-01 21:43:58,868][train.py][line:103][INFO] minimal eigenvalue:0.027
+[2022-12-01 21:43:58,868][train.py][line:104][INFO] condition number:790.574
+[2022-12-01 21:43:58,889][train.py][line:117][INFO] Epoch:74 	 loss=0.18896	
+[2022-12-01 21:43:58,959][train.py][line:102][INFO] mean of correlation:0.153
+[2022-12-01 21:43:58,960][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:43:58,961][train.py][line:104][INFO] condition number:954.425
+[2022-12-01 21:43:58,981][train.py][line:117][INFO] Epoch:75 	 loss=0.16690	
+[2022-12-01 21:43:59,049][train.py][line:102][INFO] mean of correlation:0.151
+[2022-12-01 21:43:59,050][train.py][line:103][INFO] minimal eigenvalue:0.026
+[2022-12-01 21:43:59,050][train.py][line:104][INFO] condition number:772.027
+[2022-12-01 21:43:59,071][train.py][line:117][INFO] Epoch:75 	 loss=0.17796	
+[2022-12-01 21:43:59,144][train.py][line:102][INFO] mean of correlation:0.152
+[2022-12-01 21:43:59,145][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:43:59,145][train.py][line:104][INFO] condition number:889.693
+[2022-12-01 21:43:59,167][train.py][line:117][INFO] Epoch:75 	 loss=0.17971	
+[2022-12-01 21:43:59,346][train.py][line:102][INFO] mean of correlation:0.154
+[2022-12-01 21:43:59,347][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:43:59,348][train.py][line:104][INFO] condition number:871.665
+[2022-12-01 21:43:59,369][train.py][line:117][INFO] Epoch:75 	 loss=0.17582	
+[2022-12-01 21:43:59,445][train.py][line:102][INFO] mean of correlation:0.156
+[2022-12-01 21:43:59,446][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:43:59,447][train.py][line:104][INFO] condition number:955.647
+[2022-12-01 21:43:59,467][train.py][line:117][INFO] Epoch:76 	 loss=0.18202	
+[2022-12-01 21:43:59,539][train.py][line:102][INFO] mean of correlation:0.153
+[2022-12-01 21:43:59,540][train.py][line:103][INFO] minimal eigenvalue:0.021
+[2022-12-01 21:43:59,541][train.py][line:104][INFO] condition number:991.030
+[2022-12-01 21:43:59,561][train.py][line:117][INFO] Epoch:76 	 loss=0.18342	
+[2022-12-01 21:43:59,630][train.py][line:102][INFO] mean of correlation:0.150
+[2022-12-01 21:43:59,631][train.py][line:103][INFO] minimal eigenvalue:0.025
+[2022-12-01 21:43:59,632][train.py][line:104][INFO] condition number:820.882
+[2022-12-01 21:43:59,653][train.py][line:117][INFO] Epoch:76 	 loss=0.16909	
+[2022-12-01 21:43:59,834][train.py][line:102][INFO] mean of correlation:0.151
+[2022-12-01 21:43:59,835][train.py][line:103][INFO] minimal eigenvalue:0.028
+[2022-12-01 21:43:59,836][train.py][line:104][INFO] condition number:738.341
+[2022-12-01 21:43:59,857][train.py][line:117][INFO] Epoch:76 	 loss=0.15783	
+[2022-12-01 21:43:59,931][train.py][line:102][INFO] mean of correlation:0.153
+[2022-12-01 21:43:59,932][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:43:59,932][train.py][line:104][INFO] condition number:944.828
+[2022-12-01 21:43:59,953][train.py][line:117][INFO] Epoch:77 	 loss=0.17358	
+[2022-12-01 21:44:00,025][train.py][line:102][INFO] mean of correlation:0.152
+[2022-12-01 21:44:00,026][train.py][line:103][INFO] minimal eigenvalue:0.026
+[2022-12-01 21:44:00,026][train.py][line:104][INFO] condition number:800.759
+[2022-12-01 21:44:00,046][train.py][line:117][INFO] Epoch:77 	 loss=0.17492	
+[2022-12-01 21:44:00,118][train.py][line:102][INFO] mean of correlation:0.148
+[2022-12-01 21:44:00,119][train.py][line:103][INFO] minimal eigenvalue:0.026
+[2022-12-01 21:44:00,120][train.py][line:104][INFO] condition number:770.217
+[2022-12-01 21:44:00,141][train.py][line:117][INFO] Epoch:77 	 loss=0.16491	
+[2022-12-01 21:44:00,325][train.py][line:102][INFO] mean of correlation:0.153
+[2022-12-01 21:44:00,326][train.py][line:103][INFO] minimal eigenvalue:0.021
+[2022-12-01 21:44:00,326][train.py][line:104][INFO] condition number:1012.280
+[2022-12-01 21:44:00,348][train.py][line:117][INFO] Epoch:77 	 loss=0.18173	
+[2022-12-01 21:44:00,419][train.py][line:102][INFO] mean of correlation:0.153
+[2022-12-01 21:44:00,420][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:44:00,421][train.py][line:104][INFO] condition number:977.797
+[2022-12-01 21:44:00,442][train.py][line:117][INFO] Epoch:78 	 loss=0.18593	
+[2022-12-01 21:44:00,511][train.py][line:102][INFO] mean of correlation:0.147
+[2022-12-01 21:44:00,511][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:44:00,512][train.py][line:104][INFO] condition number:838.980
+[2022-12-01 21:44:00,533][train.py][line:117][INFO] Epoch:78 	 loss=0.18113	
+[2022-12-01 21:44:00,601][train.py][line:102][INFO] mean of correlation:0.153
+[2022-12-01 21:44:00,602][train.py][line:103][INFO] minimal eigenvalue:0.025
+[2022-12-01 21:44:00,602][train.py][line:104][INFO] condition number:832.065
+[2022-12-01 21:44:00,623][train.py][line:117][INFO] Epoch:78 	 loss=0.18865	
+[2022-12-01 21:44:00,805][train.py][line:102][INFO] mean of correlation:0.153
+[2022-12-01 21:44:00,806][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:44:00,806][train.py][line:104][INFO] condition number:879.525
+[2022-12-01 21:44:00,827][train.py][line:117][INFO] Epoch:78 	 loss=0.18473	
+[2022-12-01 21:44:00,897][train.py][line:102][INFO] mean of correlation:0.154
+[2022-12-01 21:44:00,898][train.py][line:103][INFO] minimal eigenvalue:0.025
+[2022-12-01 21:44:00,898][train.py][line:104][INFO] condition number:823.969
+[2022-12-01 21:44:00,918][train.py][line:117][INFO] Epoch:79 	 loss=0.18297	
+[2022-12-01 21:44:00,994][train.py][line:102][INFO] mean of correlation:0.149
+[2022-12-01 21:44:00,994][train.py][line:103][INFO] minimal eigenvalue:0.025
+[2022-12-01 21:44:00,995][train.py][line:104][INFO] condition number:844.773
+[2022-12-01 21:44:01,016][train.py][line:117][INFO] Epoch:79 	 loss=0.16758	
+[2022-12-01 21:44:01,084][train.py][line:102][INFO] mean of correlation:0.149
+[2022-12-01 21:44:01,085][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:44:01,085][train.py][line:104][INFO] condition number:853.330
+[2022-12-01 21:44:01,106][train.py][line:117][INFO] Epoch:79 	 loss=0.17732	
+[2022-12-01 21:44:01,288][train.py][line:102][INFO] mean of correlation:0.156
+[2022-12-01 21:44:01,289][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:44:01,290][train.py][line:104][INFO] condition number:912.301
+[2022-12-01 21:44:01,311][train.py][line:117][INFO] Epoch:79 	 loss=0.19966	
+[2022-12-01 21:44:01,388][train.py][line:102][INFO] mean of correlation:0.156
+[2022-12-01 21:44:01,389][train.py][line:103][INFO] minimal eigenvalue:0.025
+[2022-12-01 21:44:01,389][train.py][line:104][INFO] condition number:848.386
+[2022-12-01 21:44:01,410][train.py][line:117][INFO] Epoch:80 	 loss=0.19040	
+[2022-12-01 21:44:01,481][train.py][line:102][INFO] mean of correlation:0.149
+[2022-12-01 21:44:01,481][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:44:01,482][train.py][line:104][INFO] condition number:852.726
+[2022-12-01 21:44:01,503][train.py][line:117][INFO] Epoch:80 	 loss=0.16615	
+[2022-12-01 21:44:01,572][train.py][line:102][INFO] mean of correlation:0.151
+[2022-12-01 21:44:01,573][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:44:01,574][train.py][line:104][INFO] condition number:865.762
+[2022-12-01 21:44:01,595][train.py][line:117][INFO] Epoch:80 	 loss=0.16942	
+[2022-12-01 21:44:01,777][train.py][line:102][INFO] mean of correlation:0.153
+[2022-12-01 21:44:01,778][train.py][line:103][INFO] minimal eigenvalue:0.026
+[2022-12-01 21:44:01,778][train.py][line:104][INFO] condition number:809.437
+[2022-12-01 21:44:01,799][train.py][line:117][INFO] Epoch:80 	 loss=0.18409	
+[2022-12-01 21:44:01,869][train.py][line:102][INFO] mean of correlation:0.151
+[2022-12-01 21:44:01,870][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:44:01,871][train.py][line:104][INFO] condition number:948.252
+[2022-12-01 21:44:01,892][train.py][line:117][INFO] Epoch:81 	 loss=0.18746	
+[2022-12-01 21:44:01,963][train.py][line:102][INFO] mean of correlation:0.153
+[2022-12-01 21:44:01,964][train.py][line:103][INFO] minimal eigenvalue:0.026
+[2022-12-01 21:44:01,964][train.py][line:104][INFO] condition number:809.280
+[2022-12-01 21:44:01,985][train.py][line:117][INFO] Epoch:81 	 loss=0.17215	
+[2022-12-01 21:44:02,054][train.py][line:102][INFO] mean of correlation:0.153
+[2022-12-01 21:44:02,055][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:44:02,056][train.py][line:104][INFO] condition number:963.607
+[2022-12-01 21:44:02,077][train.py][line:117][INFO] Epoch:81 	 loss=0.17501	
+[2022-12-01 21:44:02,261][train.py][line:102][INFO] mean of correlation:0.152
+[2022-12-01 21:44:02,262][train.py][line:103][INFO] minimal eigenvalue:0.029
+[2022-12-01 21:44:02,262][train.py][line:104][INFO] condition number:728.284
+[2022-12-01 21:44:02,284][train.py][line:117][INFO] Epoch:81 	 loss=0.18804	
+[2022-12-01 21:44:02,357][train.py][line:102][INFO] mean of correlation:0.153
+[2022-12-01 21:44:02,358][train.py][line:103][INFO] minimal eigenvalue:0.026
+[2022-12-01 21:44:02,359][train.py][line:104][INFO] condition number:794.516
+[2022-12-01 21:44:02,379][train.py][line:117][INFO] Epoch:82 	 loss=0.17158	
+[2022-12-01 21:44:02,447][train.py][line:102][INFO] mean of correlation:0.155
+[2022-12-01 21:44:02,448][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:44:02,449][train.py][line:104][INFO] condition number:908.749
+[2022-12-01 21:44:02,470][train.py][line:117][INFO] Epoch:82 	 loss=0.16487	
+[2022-12-01 21:44:02,543][train.py][line:102][INFO] mean of correlation:0.153
+[2022-12-01 21:44:02,544][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:44:02,544][train.py][line:104][INFO] condition number:901.340
+[2022-12-01 21:44:02,565][train.py][line:117][INFO] Epoch:82 	 loss=0.15893	
+[2022-12-01 21:44:02,748][train.py][line:102][INFO] mean of correlation:0.148
+[2022-12-01 21:44:02,749][train.py][line:103][INFO] minimal eigenvalue:0.025
+[2022-12-01 21:44:02,749][train.py][line:104][INFO] condition number:833.673
+[2022-12-01 21:44:02,770][train.py][line:117][INFO] Epoch:82 	 loss=0.16176	
+[2022-12-01 21:44:02,841][train.py][line:102][INFO] mean of correlation:0.152
+[2022-12-01 21:44:02,842][train.py][line:103][INFO] minimal eigenvalue:0.025
+[2022-12-01 21:44:02,842][train.py][line:104][INFO] condition number:838.264
+[2022-12-01 21:44:02,863][train.py][line:117][INFO] Epoch:83 	 loss=0.19682	
+[2022-12-01 21:44:02,941][train.py][line:102][INFO] mean of correlation:0.152
+[2022-12-01 21:44:02,942][train.py][line:103][INFO] minimal eigenvalue:0.021
+[2022-12-01 21:44:02,943][train.py][line:104][INFO] condition number:1005.386
+[2022-12-01 21:44:02,963][train.py][line:117][INFO] Epoch:83 	 loss=0.17308	
+[2022-12-01 21:44:03,035][train.py][line:102][INFO] mean of correlation:0.156
+[2022-12-01 21:44:03,036][train.py][line:103][INFO] minimal eigenvalue:0.025
+[2022-12-01 21:44:03,037][train.py][line:104][INFO] condition number:841.794
+[2022-12-01 21:44:03,057][train.py][line:117][INFO] Epoch:83 	 loss=0.17351	
+[2022-12-01 21:44:03,243][train.py][line:102][INFO] mean of correlation:0.149
+[2022-12-01 21:44:03,244][train.py][line:103][INFO] minimal eigenvalue:0.026
+[2022-12-01 21:44:03,245][train.py][line:104][INFO] condition number:800.282
+[2022-12-01 21:44:03,266][train.py][line:117][INFO] Epoch:83 	 loss=0.19090	
+[2022-12-01 21:44:03,341][train.py][line:102][INFO] mean of correlation:0.149
+[2022-12-01 21:44:03,342][train.py][line:103][INFO] minimal eigenvalue:0.028
+[2022-12-01 21:44:03,342][train.py][line:104][INFO] condition number:734.225
+[2022-12-01 21:44:03,364][train.py][line:117][INFO] Epoch:84 	 loss=0.18327	
+[2022-12-01 21:44:03,438][train.py][line:102][INFO] mean of correlation:0.154
+[2022-12-01 21:44:03,439][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:44:03,439][train.py][line:104][INFO] condition number:953.472
+[2022-12-01 21:44:03,460][train.py][line:117][INFO] Epoch:84 	 loss=0.18972	
+[2022-12-01 21:44:03,533][train.py][line:102][INFO] mean of correlation:0.153
+[2022-12-01 21:44:03,533][train.py][line:103][INFO] minimal eigenvalue:0.025
+[2022-12-01 21:44:03,534][train.py][line:104][INFO] condition number:829.699
+[2022-12-01 21:44:03,555][train.py][line:117][INFO] Epoch:84 	 loss=0.18796	
+[2022-12-01 21:44:03,737][train.py][line:102][INFO] mean of correlation:0.154
+[2022-12-01 21:44:03,738][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:44:03,738][train.py][line:104][INFO] condition number:902.189
+[2022-12-01 21:44:03,759][train.py][line:117][INFO] Epoch:84 	 loss=0.17698	
+[2022-12-01 21:44:03,830][train.py][line:102][INFO] mean of correlation:0.151
+[2022-12-01 21:44:03,831][train.py][line:103][INFO] minimal eigenvalue:0.025
+[2022-12-01 21:44:03,832][train.py][line:104][INFO] condition number:836.063
+[2022-12-01 21:44:03,853][train.py][line:117][INFO] Epoch:85 	 loss=0.16779	
+[2022-12-01 21:44:03,921][train.py][line:102][INFO] mean of correlation:0.152
+[2022-12-01 21:44:03,922][train.py][line:103][INFO] minimal eigenvalue:0.025
+[2022-12-01 21:44:03,922][train.py][line:104][INFO] condition number:835.467
+[2022-12-01 21:44:03,943][train.py][line:117][INFO] Epoch:85 	 loss=0.16962	
+[2022-12-01 21:44:04,020][train.py][line:102][INFO] mean of correlation:0.154
+[2022-12-01 21:44:04,020][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:44:04,021][train.py][line:104][INFO] condition number:870.199
+[2022-12-01 21:44:04,042][train.py][line:117][INFO] Epoch:85 	 loss=0.17357	
+[2022-12-01 21:44:04,223][train.py][line:102][INFO] mean of correlation:0.154
+[2022-12-01 21:44:04,224][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:44:04,224][train.py][line:104][INFO] condition number:863.397
+[2022-12-01 21:44:04,245][train.py][line:117][INFO] Epoch:85 	 loss=0.18250	
+[2022-12-01 21:44:04,329][train.py][line:102][INFO] mean of correlation:0.153
+[2022-12-01 21:44:04,329][train.py][line:103][INFO] minimal eigenvalue:0.026
+[2022-12-01 21:44:04,330][train.py][line:104][INFO] condition number:809.354
+[2022-12-01 21:44:04,350][train.py][line:117][INFO] Epoch:86 	 loss=0.19009	
+[2022-12-01 21:44:04,422][train.py][line:102][INFO] mean of correlation:0.149
+[2022-12-01 21:44:04,422][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:44:04,423][train.py][line:104][INFO] condition number:854.975
+[2022-12-01 21:44:04,443][train.py][line:117][INFO] Epoch:86 	 loss=0.18382	
+[2022-12-01 21:44:04,513][train.py][line:102][INFO] mean of correlation:0.154
+[2022-12-01 21:44:04,514][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:44:04,514][train.py][line:104][INFO] condition number:923.254
+[2022-12-01 21:44:04,535][train.py][line:117][INFO] Epoch:86 	 loss=0.18762	
+[2022-12-01 21:44:04,720][train.py][line:102][INFO] mean of correlation:0.152
+[2022-12-01 21:44:04,721][train.py][line:103][INFO] minimal eigenvalue:0.025
+[2022-12-01 21:44:04,722][train.py][line:104][INFO] condition number:815.306
+[2022-12-01 21:44:04,743][train.py][line:117][INFO] Epoch:86 	 loss=0.17721	
+[2022-12-01 21:44:04,815][train.py][line:102][INFO] mean of correlation:0.152
+[2022-12-01 21:44:04,816][train.py][line:103][INFO] minimal eigenvalue:0.025
+[2022-12-01 21:44:04,817][train.py][line:104][INFO] condition number:819.701
+[2022-12-01 21:44:04,837][train.py][line:117][INFO] Epoch:87 	 loss=0.16505	
+[2022-12-01 21:44:04,909][train.py][line:102][INFO] mean of correlation:0.149
+[2022-12-01 21:44:04,910][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:44:04,911][train.py][line:104][INFO] condition number:883.553
+[2022-12-01 21:44:04,932][train.py][line:117][INFO] Epoch:87 	 loss=0.17649	
+[2022-12-01 21:44:05,005][train.py][line:102][INFO] mean of correlation:0.149
+[2022-12-01 21:44:05,006][train.py][line:103][INFO] minimal eigenvalue:0.027
+[2022-12-01 21:44:05,007][train.py][line:104][INFO] condition number:765.459
+[2022-12-01 21:44:05,028][train.py][line:117][INFO] Epoch:87 	 loss=0.17660	
+[2022-12-01 21:44:05,216][train.py][line:102][INFO] mean of correlation:0.157
+[2022-12-01 21:44:05,217][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:44:05,217][train.py][line:104][INFO] condition number:918.005
+[2022-12-01 21:44:05,239][train.py][line:117][INFO] Epoch:87 	 loss=0.17511	
+[2022-12-01 21:44:05,317][train.py][line:102][INFO] mean of correlation:0.155
+[2022-12-01 21:44:05,318][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:44:05,319][train.py][line:104][INFO] condition number:970.311
+[2022-12-01 21:44:05,339][train.py][line:117][INFO] Epoch:88 	 loss=0.18249	
+[2022-12-01 21:44:05,409][train.py][line:102][INFO] mean of correlation:0.152
+[2022-12-01 21:44:05,409][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:44:05,410][train.py][line:104][INFO] condition number:864.539
+[2022-12-01 21:44:05,431][train.py][line:117][INFO] Epoch:88 	 loss=0.17704	
+[2022-12-01 21:44:05,501][train.py][line:102][INFO] mean of correlation:0.156
+[2022-12-01 21:44:05,502][train.py][line:103][INFO] minimal eigenvalue:0.025
+[2022-12-01 21:44:05,502][train.py][line:104][INFO] condition number:860.264
+[2022-12-01 21:44:05,521][train.py][line:117][INFO] Epoch:88 	 loss=0.17183	
+[2022-12-01 21:44:05,702][train.py][line:102][INFO] mean of correlation:0.145
+[2022-12-01 21:44:05,703][train.py][line:103][INFO] minimal eigenvalue:0.025
+[2022-12-01 21:44:05,704][train.py][line:104][INFO] condition number:783.737
+[2022-12-01 21:44:05,725][train.py][line:117][INFO] Epoch:88 	 loss=0.20386	
+[2022-12-01 21:44:05,795][train.py][line:102][INFO] mean of correlation:0.152
+[2022-12-01 21:44:05,796][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:44:05,797][train.py][line:104][INFO] condition number:913.872
+[2022-12-01 21:44:05,818][train.py][line:117][INFO] Epoch:89 	 loss=0.20280	
+[2022-12-01 21:44:05,888][train.py][line:102][INFO] mean of correlation:0.151
+[2022-12-01 21:44:05,889][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:44:05,890][train.py][line:104][INFO] condition number:873.633
+[2022-12-01 21:44:05,911][train.py][line:117][INFO] Epoch:89 	 loss=0.17349	
+[2022-12-01 21:44:05,985][train.py][line:102][INFO] mean of correlation:0.153
+[2022-12-01 21:44:05,986][train.py][line:103][INFO] minimal eigenvalue:0.025
+[2022-12-01 21:44:05,987][train.py][line:104][INFO] condition number:826.878
+[2022-12-01 21:44:06,008][train.py][line:117][INFO] Epoch:89 	 loss=0.18614	
+[2022-12-01 21:44:06,189][train.py][line:102][INFO] mean of correlation:0.154
+[2022-12-01 21:44:06,190][train.py][line:103][INFO] minimal eigenvalue:0.026
+[2022-12-01 21:44:06,191][train.py][line:104][INFO] condition number:813.179
+[2022-12-01 21:44:06,212][train.py][line:117][INFO] Epoch:89 	 loss=0.17530	
+[2022-12-01 21:44:06,284][train.py][line:102][INFO] mean of correlation:0.153
+[2022-12-01 21:44:06,285][train.py][line:103][INFO] minimal eigenvalue:0.028
+[2022-12-01 21:44:06,286][train.py][line:104][INFO] condition number:748.294
+[2022-12-01 21:44:06,307][train.py][line:117][INFO] Epoch:90 	 loss=0.18082	
+[2022-12-01 21:44:06,376][train.py][line:102][INFO] mean of correlation:0.153
+[2022-12-01 21:44:06,376][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:44:06,377][train.py][line:104][INFO] condition number:952.346
+[2022-12-01 21:44:06,397][train.py][line:117][INFO] Epoch:90 	 loss=0.19071	
+[2022-12-01 21:44:06,468][train.py][line:102][INFO] mean of correlation:0.154
+[2022-12-01 21:44:06,469][train.py][line:103][INFO] minimal eigenvalue:0.029
+[2022-12-01 21:44:06,469][train.py][line:104][INFO] condition number:736.684
+[2022-12-01 21:44:06,490][train.py][line:117][INFO] Epoch:90 	 loss=0.15230	
+[2022-12-01 21:44:06,673][train.py][line:102][INFO] mean of correlation:0.149
+[2022-12-01 21:44:06,674][train.py][line:103][INFO] minimal eigenvalue:0.021
+[2022-12-01 21:44:06,674][train.py][line:104][INFO] condition number:962.190
+[2022-12-01 21:44:06,695][train.py][line:117][INFO] Epoch:90 	 loss=0.16927	
+[2022-12-01 21:44:06,765][train.py][line:102][INFO] mean of correlation:0.155
+[2022-12-01 21:44:06,766][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:44:06,767][train.py][line:104][INFO] condition number:950.489
+[2022-12-01 21:44:06,788][train.py][line:117][INFO] Epoch:91 	 loss=0.19240	
+[2022-12-01 21:44:06,857][train.py][line:102][INFO] mean of correlation:0.150
+[2022-12-01 21:44:06,857][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:44:06,858][train.py][line:104][INFO] condition number:906.537
+[2022-12-01 21:44:06,879][train.py][line:117][INFO] Epoch:91 	 loss=0.18620	
+[2022-12-01 21:44:06,953][train.py][line:102][INFO] mean of correlation:0.151
+[2022-12-01 21:44:06,953][train.py][line:103][INFO] minimal eigenvalue:0.025
+[2022-12-01 21:44:06,954][train.py][line:104][INFO] condition number:822.940
+[2022-12-01 21:44:06,974][train.py][line:117][INFO] Epoch:91 	 loss=0.18081	
+[2022-12-01 21:44:07,154][train.py][line:102][INFO] mean of correlation:0.153
+[2022-12-01 21:44:07,155][train.py][line:103][INFO] minimal eigenvalue:0.027
+[2022-12-01 21:44:07,156][train.py][line:104][INFO] condition number:785.753
+[2022-12-01 21:44:07,177][train.py][line:117][INFO] Epoch:91 	 loss=0.17029	
+[2022-12-01 21:44:07,247][train.py][line:102][INFO] mean of correlation:0.156
+[2022-12-01 21:44:07,247][train.py][line:103][INFO] minimal eigenvalue:0.021
+[2022-12-01 21:44:07,248][train.py][line:104][INFO] condition number:1002.969
+[2022-12-01 21:44:07,269][train.py][line:117][INFO] Epoch:92 	 loss=0.17771	
+[2022-12-01 21:44:07,337][train.py][line:102][INFO] mean of correlation:0.151
+[2022-12-01 21:44:07,338][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:44:07,339][train.py][line:104][INFO] condition number:863.038
+[2022-12-01 21:44:07,360][train.py][line:117][INFO] Epoch:92 	 loss=0.18850	
+[2022-12-01 21:44:07,431][train.py][line:102][INFO] mean of correlation:0.148
+[2022-12-01 21:44:07,432][train.py][line:103][INFO] minimal eigenvalue:0.028
+[2022-12-01 21:44:07,432][train.py][line:104][INFO] condition number:731.970
+[2022-12-01 21:44:07,453][train.py][line:117][INFO] Epoch:92 	 loss=0.17388	
+[2022-12-01 21:44:07,639][train.py][line:102][INFO] mean of correlation:0.153
+[2022-12-01 21:44:07,640][train.py][line:103][INFO] minimal eigenvalue:0.026
+[2022-12-01 21:44:07,640][train.py][line:104][INFO] condition number:813.686
+[2022-12-01 21:44:07,662][train.py][line:117][INFO] Epoch:92 	 loss=0.17472	
+[2022-12-01 21:44:07,735][train.py][line:102][INFO] mean of correlation:0.155
+[2022-12-01 21:44:07,736][train.py][line:103][INFO] minimal eigenvalue:0.026
+[2022-12-01 21:44:07,736][train.py][line:104][INFO] condition number:814.028
+[2022-12-01 21:44:07,757][train.py][line:117][INFO] Epoch:93 	 loss=0.17530	
+[2022-12-01 21:44:07,826][train.py][line:102][INFO] mean of correlation:0.154
+[2022-12-01 21:44:07,827][train.py][line:103][INFO] minimal eigenvalue:0.028
+[2022-12-01 21:44:07,827][train.py][line:104][INFO] condition number:755.832
+[2022-12-01 21:44:07,848][train.py][line:117][INFO] Epoch:93 	 loss=0.15532	
+[2022-12-01 21:44:07,915][train.py][line:102][INFO] mean of correlation:0.149
+[2022-12-01 21:44:07,916][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:44:07,917][train.py][line:104][INFO] condition number:877.536
+[2022-12-01 21:44:07,938][train.py][line:117][INFO] Epoch:93 	 loss=0.17837	
+[2022-12-01 21:44:08,124][train.py][line:102][INFO] mean of correlation:0.152
+[2022-12-01 21:44:08,125][train.py][line:103][INFO] minimal eigenvalue:0.021
+[2022-12-01 21:44:08,126][train.py][line:104][INFO] condition number:978.430
+[2022-12-01 21:44:08,147][train.py][line:117][INFO] Epoch:93 	 loss=0.18232	
+[2022-12-01 21:44:08,221][train.py][line:102][INFO] mean of correlation:0.150
+[2022-12-01 21:44:08,222][train.py][line:103][INFO] minimal eigenvalue:0.027
+[2022-12-01 21:44:08,223][train.py][line:104][INFO] condition number:771.602
+[2022-12-01 21:44:08,242][train.py][line:117][INFO] Epoch:94 	 loss=0.18059	
+[2022-12-01 21:44:08,311][train.py][line:102][INFO] mean of correlation:0.154
+[2022-12-01 21:44:08,311][train.py][line:103][INFO] minimal eigenvalue:0.025
+[2022-12-01 21:44:08,312][train.py][line:104][INFO] condition number:838.651
+[2022-12-01 21:44:08,333][train.py][line:117][INFO] Epoch:94 	 loss=0.18529	
+[2022-12-01 21:44:08,402][train.py][line:102][INFO] mean of correlation:0.150
+[2022-12-01 21:44:08,403][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:44:08,403][train.py][line:104][INFO] condition number:897.942
+[2022-12-01 21:44:08,424][train.py][line:117][INFO] Epoch:94 	 loss=0.18439	
+[2022-12-01 21:44:08,604][train.py][line:102][INFO] mean of correlation:0.155
+[2022-12-01 21:44:08,605][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:44:08,606][train.py][line:104][INFO] condition number:902.795
+[2022-12-01 21:44:08,627][train.py][line:117][INFO] Epoch:94 	 loss=0.18040	
+[2022-12-01 21:44:08,702][train.py][line:102][INFO] mean of correlation:0.152
+[2022-12-01 21:44:08,702][train.py][line:103][INFO] minimal eigenvalue:0.025
+[2022-12-01 21:44:08,703][train.py][line:104][INFO] condition number:824.532
+[2022-12-01 21:44:08,723][train.py][line:117][INFO] Epoch:95 	 loss=0.19192	
+[2022-12-01 21:44:08,796][train.py][line:102][INFO] mean of correlation:0.157
+[2022-12-01 21:44:08,797][train.py][line:103][INFO] minimal eigenvalue:0.025
+[2022-12-01 21:44:08,797][train.py][line:104][INFO] condition number:855.264
+[2022-12-01 21:44:08,818][train.py][line:117][INFO] Epoch:95 	 loss=0.17749	
+[2022-12-01 21:44:08,890][train.py][line:102][INFO] mean of correlation:0.149
+[2022-12-01 21:44:08,891][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:44:08,892][train.py][line:104][INFO] condition number:913.986
+[2022-12-01 21:44:08,913][train.py][line:117][INFO] Epoch:95 	 loss=0.18005	
+[2022-12-01 21:44:09,097][train.py][line:102][INFO] mean of correlation:0.152
+[2022-12-01 21:44:09,098][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:44:09,099][train.py][line:104][INFO] condition number:860.920
+[2022-12-01 21:44:09,120][train.py][line:117][INFO] Epoch:95 	 loss=0.18043	
+[2022-12-01 21:44:09,195][train.py][line:102][INFO] mean of correlation:0.153
+[2022-12-01 21:44:09,196][train.py][line:103][INFO] minimal eigenvalue:0.026
+[2022-12-01 21:44:09,197][train.py][line:104][INFO] condition number:803.988
+[2022-12-01 21:44:09,218][train.py][line:117][INFO] Epoch:96 	 loss=0.18189	
+[2022-12-01 21:44:09,286][train.py][line:102][INFO] mean of correlation:0.152
+[2022-12-01 21:44:09,287][train.py][line:103][INFO] minimal eigenvalue:0.027
+[2022-12-01 21:44:09,287][train.py][line:104][INFO] condition number:780.222
+[2022-12-01 21:44:09,308][train.py][line:117][INFO] Epoch:96 	 loss=0.16528	
+[2022-12-01 21:44:09,380][train.py][line:102][INFO] mean of correlation:0.152
+[2022-12-01 21:44:09,380][train.py][line:103][INFO] minimal eigenvalue:0.022
+[2022-12-01 21:44:09,381][train.py][line:104][INFO] condition number:928.648
+[2022-12-01 21:44:09,402][train.py][line:117][INFO] Epoch:96 	 loss=0.18953	
+[2022-12-01 21:44:09,589][train.py][line:102][INFO] mean of correlation:0.156
+[2022-12-01 21:44:09,590][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:44:09,591][train.py][line:104][INFO] condition number:913.270
+[2022-12-01 21:44:09,612][train.py][line:117][INFO] Epoch:96 	 loss=0.16191	
+[2022-12-01 21:44:09,687][train.py][line:102][INFO] mean of correlation:0.154
+[2022-12-01 21:44:09,687][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:44:09,688][train.py][line:104][INFO] condition number:920.676
+[2022-12-01 21:44:09,709][train.py][line:117][INFO] Epoch:97 	 loss=0.18305	
+[2022-12-01 21:44:09,778][train.py][line:102][INFO] mean of correlation:0.149
+[2022-12-01 21:44:09,779][train.py][line:103][INFO] minimal eigenvalue:0.026
+[2022-12-01 21:44:09,780][train.py][line:104][INFO] condition number:798.833
+[2022-12-01 21:44:09,801][train.py][line:117][INFO] Epoch:97 	 loss=0.16663	
+[2022-12-01 21:44:09,869][train.py][line:102][INFO] mean of correlation:0.153
+[2022-12-01 21:44:09,870][train.py][line:103][INFO] minimal eigenvalue:0.023
+[2022-12-01 21:44:09,871][train.py][line:104][INFO] condition number:901.975
+[2022-12-01 21:44:09,892][train.py][line:117][INFO] Epoch:97 	 loss=0.16952	
+[2022-12-01 21:44:10,075][train.py][line:102][INFO] mean of correlation:0.157
+[2022-12-01 21:44:10,075][train.py][line:103][INFO] minimal eigenvalue:0.026
+[2022-12-01 21:44:10,076][train.py][line:104][INFO] condition number:839.903
+[2022-12-01 21:44:10,097][train.py][line:117][INFO] Epoch:97 	 loss=0.18364	
+[2022-12-01 21:44:10,169][train.py][line:102][INFO] mean of correlation:0.155
+[2022-12-01 21:44:10,170][train.py][line:103][INFO] minimal eigenvalue:0.025
+[2022-12-01 21:44:10,171][train.py][line:104][INFO] condition number:828.203
+[2022-12-01 21:44:10,192][train.py][line:117][INFO] Epoch:98 	 loss=0.16352	
+[2022-12-01 21:44:10,260][train.py][line:102][INFO] mean of correlation:0.148
+[2022-12-01 21:44:10,261][train.py][line:103][INFO] minimal eigenvalue:0.027
+[2022-12-01 21:44:10,262][train.py][line:104][INFO] condition number:763.946
+[2022-12-01 21:44:10,283][train.py][line:117][INFO] Epoch:98 	 loss=0.18790	
+[2022-12-01 21:44:10,356][train.py][line:102][INFO] mean of correlation:0.156
+[2022-12-01 21:44:10,357][train.py][line:103][INFO] minimal eigenvalue:0.025
+[2022-12-01 21:44:10,358][train.py][line:104][INFO] condition number:865.274
+[2022-12-01 21:44:10,379][train.py][line:117][INFO] Epoch:98 	 loss=0.17262	
+[2022-12-01 21:44:10,559][train.py][line:102][INFO] mean of correlation:0.155
+[2022-12-01 21:44:10,559][train.py][line:103][INFO] minimal eigenvalue:0.021
+[2022-12-01 21:44:10,560][train.py][line:104][INFO] condition number:979.164
+[2022-12-01 21:44:10,582][train.py][line:117][INFO] Epoch:98 	 loss=0.19486	
+[2022-12-01 21:44:10,654][train.py][line:102][INFO] mean of correlation:0.154
+[2022-12-01 21:44:10,655][train.py][line:103][INFO] minimal eigenvalue:0.025
+[2022-12-01 21:44:10,656][train.py][line:104][INFO] condition number:840.807
+[2022-12-01 21:44:10,677][train.py][line:117][INFO] Epoch:99 	 loss=0.17416	
+[2022-12-01 21:44:10,750][train.py][line:102][INFO] mean of correlation:0.152
+[2022-12-01 21:44:10,751][train.py][line:103][INFO] minimal eigenvalue:0.025
+[2022-12-01 21:44:10,752][train.py][line:104][INFO] condition number:830.421
+[2022-12-01 21:44:10,773][train.py][line:117][INFO] Epoch:99 	 loss=0.18056	
+[2022-12-01 21:44:10,845][train.py][line:102][INFO] mean of correlation:0.157
+[2022-12-01 21:44:10,846][train.py][line:103][INFO] minimal eigenvalue:0.025
+[2022-12-01 21:44:10,847][train.py][line:104][INFO] condition number:856.727
+[2022-12-01 21:44:10,867][train.py][line:117][INFO] Epoch:99 	 loss=0.17651	
+[2022-12-01 21:44:11,053][train.py][line:102][INFO] mean of correlation:0.151
+[2022-12-01 21:44:11,053][train.py][line:103][INFO] minimal eigenvalue:0.024
+[2022-12-01 21:44:11,054][train.py][line:104][INFO] condition number:860.719
+[2022-12-01 21:44:11,075][train.py][line:117][INFO] Epoch:99 	 loss=0.18211	
+[2022-12-01 21:44:11,076][train.py][line:128][INFO] starting test on env书籍	
+[2022-12-01 21:44:11,475][train.py][line:145][INFO] acc on env书籍 = 42.43%	
+[2022-12-01 21:44:11,476][train.py][line:128][INFO] starting test on env计算机	
+[2022-12-01 21:44:12,352][train.py][line:145][INFO] acc on env计算机 = 86.12%	
+[2022-12-01 21:44:12,353][train.py][line:128][INFO] starting test on env酒店	
+[2022-12-01 21:44:12,981][train.py][line:145][INFO] acc on env酒店 = 56.38%	
+[2022-12-01 21:44:12,982][train.py][line:128][INFO] starting test on env蒙牛	
+[2022-12-01 21:44:13,112][train.py][line:145][INFO] acc on env蒙牛 = 45.40%	
+[2022-12-01 21:44:13,113][train.py][line:128][INFO] starting test on env平板	
+[2022-12-01 21:44:13,679][train.py][line:145][INFO] acc on env平板 = 59.28%	
+[2022-12-01 21:44:13,681][train.py][line:128][INFO] starting test on env热水器	
+[2022-12-01 21:44:13,806][train.py][line:145][INFO] acc on env热水器 = 42.78%	
+[2022-12-01 21:44:13,807][train.py][line:128][INFO] starting test on env手机	
+[2022-12-01 21:44:14,004][train.py][line:145][INFO] acc on env手机 = 59.19%	
+[2022-12-01 21:44:14,006][train.py][line:128][INFO] starting test on env水果	
+[2022-12-01 21:44:14,566][train.py][line:145][INFO] acc on env水果 = 56.01%	
+[2022-12-01 21:44:14,568][train.py][line:128][INFO] starting test on env洗发水	
+[2022-12-01 21:44:15,133][train.py][line:145][INFO] acc on env洗发水 = 58.60%	
+[2022-12-01 21:44:15,135][train.py][line:128][INFO] starting test on env衣服	
+[2022-12-01 21:44:15,686][train.py][line:145][INFO] acc on env衣服 = 64.77%	

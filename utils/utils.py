@@ -3,6 +3,28 @@ import pandas as pd
 import logging, argparse, os
 from statsmodels.stats.weightstats import DescrStatsW
 
+ 
+
+def get_logger(filename, verbosity=1, name=None):
+    level_dict = {0: logging.DEBUG, 1: logging.INFO, 2: logging.WARNING}
+    formatter = logging.Formatter(
+        "[%(asctime)s][%(filename)s][line:%(lineno)d][%(levelname)s] %(message)s"
+    )
+    logger = logging.getLogger(name)
+    logger.setLevel(level_dict[verbosity])
+ 
+    fh = logging.FileHandler(filename, "w")
+    fh.setFormatter(formatter)
+    logger.addHandler(fh)
+ 
+    sh = logging.StreamHandler()
+    sh.setFormatter(formatter)
+    logger.addHandler(sh)
+ 
+    return logger
+
+
+
 def get_split(filename):
     pdata = pd.read_csv(filename)
     tags = pdata['cat'].unique().tolist()
@@ -14,8 +36,9 @@ def get_split(filename):
 
         envX = pdata[(pdata['cat'] == tag)]['review']
         envY = pdata[(pdata['cat'] == tag)]['label']
-        np.save(tag+"X.npy", envX)
-        np.save(tag+"Y.npy", envY)
+        np.save()
+        np.save("../data/" + tag +"X.npy", envX)
+        np.save("../data/" + tag +"Y.npy", envY)
 
 
 def set_logging(path, filename):
@@ -59,3 +82,16 @@ def weighted_stat(x, weights):
     w_stat['CI'] = condition_index
     w_stat['CN'] = condition_number
     return w_stat
+
+
+def data_enhence(data, label, reverse=False):
+    enhence_index = np.random.randint(0, len(data), size = len(data) // 3)
+    pos = '--' if reverse else '++'
+    neg = '++' if reverse else '--'
+    for i in enhence_index:
+        if label[i] == 1:
+            data[i] = pos + data[i]
+        elif label[i] == 0:
+            data[i] = neg + data[i]
+            
+        

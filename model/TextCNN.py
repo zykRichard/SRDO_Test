@@ -2,7 +2,8 @@ import os
 import numpy as np
 import torch
 import torch.nn as nn
-
+import torch.nn.functional as f
+from sklearn.decomposition import PCA
 
 class block(nn.Module):
     """
@@ -27,7 +28,46 @@ class block(nn.Module):
         res_layer3 = res_layer3.squeeze(-1) 
         return res_layer3
 
+class Feature_Extractor(nn.Module):
+    def __init__(self, emb_matrix, max_len, hidden_num):
+         super().__init__()
+        
+         self.emb_matrix = emb_matrix
+         self.emb_len = emb_matrix.weight.shape[1]
+         
+         self.block1 = block(2, self.emb_len, max_len, hidden_num)
+         #self.block2 = block(3, self.emb_len, max_len, hidden_num)
+         self.block3 = block(4, self.emb_len, max_len, hidden_num)
+         #self.block4 = block(5, self.emb_len, max_len, hidden_num)
+         self.block5 = block(6, self.emb_len, max_len, hidden_num)
 
+    def forward(self, batch_idx):
+        batch_emb = self.emb_matrix(batch_idx)
+        
+        res_b1 = self.block1(batch_emb)
+        #res_b2 = self.block2(batch_emb)
+        res_b3 = self.block3(batch_emb)
+        #res_b4 = self.block4(batch_emb)
+        res_b5 = self.block5(batch_emb)
+        
+        feature_vec = torch.cat((res_b1,  res_b3,  res_b5), dim=-1)
+        
+        return feature_vec
+class classifier(nn.module):
+    def __init__(self, hidden_num, channels, class_num, drop_prob=0.5):
+        super().__init__()
+        
+        self.input_dim = hidden_num * channels
+        self.output_dim = class_num
+        
+        self.fc = nn.Linear(self.input_dim, self.output_dim)
+        self.dropout = nn.Dropout(drop_prob)
+        
+    def forward(self, feature_vec):
+        predict = self.fc(feature_vec)
+        predict = self.dropout(predict)
+        return predict
+    
 class TextCNN(nn.Module):
     """
         针对情感极性分类的textCNN:暂定为5种size的kernel
@@ -38,46 +78,24 @@ class TextCNN(nn.Module):
         hidden_num: the number of channels of convolution layer
     """
     
-    def __init__(self, emb_matrix, max_len, class_num, hidden_num, drop_porb=0.5):
+    def __init__(self, feature_extractor, classifier):
         super().__init__()
         
-        self.emb_matrix = emb_matrix
-        self.emb_len = emb_matrix.weight.shape[1]
-        
-        self.block1 = block(2, self.emb_len, max_len, hidden_num)
-        self.block2 = block(3, self.emb_len, max_len, hidden_num)
-        self.block3 = block(4, self.emb_len, max_len, hidden_num)
-        self.block4 = block(5, self.emb_len, max_len, hidden_num)
-        self.block5 = block(6, self.emb_len, max_len, hidden_num)
-        
-        self.fc = nn.Linear(hidden_num * 5, class_num)
-        
-        self.dropout = nn.Dropout(drop_porb)
-        
-        self.loss = nn.CrossEntropyLoss()
+        self.feature_learn = feature_extractor
+        self.classifier = classifier
         
         
-    def forward(self, batch_idx, batch_label=None):
-        batch_emb = self.emb_matrix(batch_idx)
+    def forward(self, batch_idx, pre_train=True):
         
-        res_b1 = self.block1(batch_emb)
-        res_b2 = self.block2(batch_emb)
-        res_b3 = self.block3(batch_emb)
-        res_b4 = self.block4(batch_emb)
-        res_b5 = self.block5(batch_emb)
+        feature_vec = self.feature_learn(batch_idx)
         
-        feature_vec = torch.cat((res_b1, res_b2, res_b3, res_b4, res_b5), dim=-1)
+        predict = self.classifier(feature_vec)
         
-        pre = self.fc(feature_vec)
-        pre = self.dropout(pre)
+        if pre_train:
+            predict = f.softmax(predict)
         
-        if batch_label is not None:
-            loss_val = self.loss(pre, batch_label)
-            return loss_val
-            
-        else:
-            predict = torch.argmax(pre, dim=-1)
-            return predict
+        return predict
         
-        
+
+     
         
